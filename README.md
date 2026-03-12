@@ -1,3 +1,3 @@
 # AuraChannel
 
-sksk
+ВСЕХ ПРИВЕТСТВУЕМ!
