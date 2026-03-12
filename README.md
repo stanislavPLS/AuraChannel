@@ -12,3 +12,12 @@ https://raw.githubusercontent.com/stanislavPLS/Testing_new/refs/heads/main/AURA_
 
 **пример подписки👇**
 - ![](https://github.com/stanislavPLS/AuraChannel/blob/main/Screenshot_2026-03-12-14-38-30-363_su.happ.proxyutility.jpg?raw=true?style=for-the-badge)
+**Новости про впн**
+
+  <div align="center">
+
+| № сервера | сервер | статус | последнее обновление|
+|:--------------------:|:--------------------:|:--------------------:|:--------------------:|
+| 13 | Ускорение ТГ | ОТКЛЮЧЕНО | 12.03.26 9:33 |
+
+  </div>
