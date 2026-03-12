@@ -1,5 +1,5 @@
 # AuraChannel
 
 ВСЕХ ПРИВЕТСТВУЕМ
-- [Xray-core](happ://add/https://raw.githubusercontent.com/stanislavPLS/Testing_new/refs/heads/main/Aura%2B.txt) - Proxy движок
-- [Hiddify](https://github.com/hiddify) - Multi-platform VPN клиент
+- [добавить подписку в хапп](happ://add/https://raw.githubusercontent.com/stanislavPLS/Testing_new/refs/heads/main/Aura%2B.txt)
+- [скачать Нарр v3.14.0 ](https://github.com/Happ-proxy/happ-android/releases/download/3.14.0/Happ.apk)
