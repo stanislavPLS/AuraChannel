@@ -2,6 +2,7 @@
 
 ВСЕХ ПРИВЕТСТВУЕМ, как пользоватся нашим ВПН? всё просто:
 - [скачиваем его (последняя версия)](https://github.com/Happ-proxy/happ-android/releases/download/3.14.0/Happ.apk)
+- [(на айос, через апп стор)](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
 - копируем ссылку👇
 ```
 https://raw.githubusercontent.com/stanislavPLS/Testing_new/refs/heads/main/AURA_VPN.txt
@@ -14,10 +15,6 @@ https://raw.githubusercontent.com/stanislavPLS/Testing_new/refs/heads/main/AURA_
 - ![](https://github.com/stanislavPLS/AuraChannel/blob/main/Screenshot_2026-03-12-14-38-30-363_su.happ.proxyutility.jpg?raw=true?style=for-the-badge)
 **Новости про впн**
 
-  <div align="center">
+***Этой ночью, РКН мощнейше ударил блокировками по серверам.  Остались работать только ПРЕМИУМ-сервера. Чтобы заработали и остальные, нужно подождать, пока админ начнёт возвращать все сервера к работе (обычно он возвращает за 2-3 часа)*** (13.03.26 9:53)
 
-| № сервера | сервер | статус | последнее обновление|
-|:--------------------:|:--------------------:|:--------------------:|:--------------------:|
-| 13 | Ускорение ТГ | ОТКЛЮЧЕНО | 12.03.26 9:33 |
-
-  </div>
+***Спустя много времени вернули работу всех серверов, добавили много новых, можете пользоваться далее!***(13.03.26 15:00)
