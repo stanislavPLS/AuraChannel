@@ -1,7 +1,7 @@
 # AuraChannel
 
-ВСЕХ ПРИВЕТСТВУЕМ, как пользоватся нашим ВПН? всё просто:
-- [скачиваем его (последняя версия)](https://github.com/Happ-proxy/happ-android/releases/download/3.14.0/Happ.apk)
+ВСЕХ ПРИВЕТСТВУЕМ, как пользоватся нашим ВПН? всё просто: сначала скачаем Happ:
+- [(на андроид, через скачанные)](https://github.com/Happ-proxy/happ-android/releases/download/3.14.0/Happ.apk)
 - [(на айос, через апп стор)](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
 - копируем ссылку👇
 ```
