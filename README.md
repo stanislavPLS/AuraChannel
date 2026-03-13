@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/stanislavPLS/Testing_new/refs/heads/main/AURA_
 - всё готово! 
 
 **пример подписки👇**
-- ![](https://github.com/stanislavPLS/AuraChannel/blob/main/Screenshot_2026-03-12-14-38-30-363_su.happ.proxyutility.jpg?raw=true?style=for-the-badge)
+- ![](https://github.com/stanislavPLS/AuraChannel/blob/main/Screenshot_2026-03-13-22-51-24-311_su.happ.proxyutility.jpg)
 **Новости про впн:**
 
 ***Этой ночью, РКН мощнейше ударил блокировками по серверам.  Остались работать только ПРЕМИУМ-сервера. Чтобы заработали и остальные, нужно подождать, пока админ начнёт возвращать все сервера к работе (обычно он возвращает за 2-3 часа)*** (13.03.26 9:53)
