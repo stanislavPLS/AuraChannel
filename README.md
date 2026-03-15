@@ -12,8 +12,8 @@ https://raw.githubusercontent.com/stanislavPLS/Testing_new/refs/heads/main/AURA_
 - и заходим в happ, нажимаем  ```из буфера```, когда появится наша подписка, нажмите на кнопку обновить пинг. 
 - всё готово! 
 
-**пример подписки👇**
-- ![](https://github.com/stanislavPLS/AuraChannel/blob/main/Screenshot_2026-03-15-08-02-27-377_su.happ.proxyutility.jpg)
+**Пример подписки👇**
+![](https://github.com/stanislavPLS/AuraChannel/blob/main/Screenshot_2026-03-15-08-02-27-377_su.happ.proxyutility.jpg)
 **Новости про впн:**
 
 ***[9:46 14.03.26] Обновили подписку. Всё работает (кроме 7 сервера). Пользуйтесь😊***
