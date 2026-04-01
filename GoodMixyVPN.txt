@@ -1,6 +1,0 @@
-#profile-title: GoodMixyVPN 
-vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@37.139.34.11:443?security=reality&encryption=none&pbk=rF43IYi51iRLW-G5FAdygvxdJuNhkAtZFjJlDm9eU0w&headerType=none&fp=ios&spx=%2Flr56Rsiq6xJSQQT&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=9f97df45c5661157#🇷🇺БЕЛЫЕ СПИСКИ 
-vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#🇷🇺БЕЛЫЕ СПИСКИ
-vless://00809346-b95e-4d4d-8a50-0c82bb75c0ce@212.233.120.4:443?mode=auto&path=%2Fapi%2Fv2%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=random&allowinsecure=0&type=xhttp&sni=bonus00-01.uiu.fyi#🇸🇪ШВЕЦИЯ
-vless://9e8f1ebe-d8f9-451c-bee1-78b909df758a@lav3.pineappled.org:443?security=reality&encryption=none&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=23#YouTube no ads_1
-vless://dc6e9e39-41b4-45c1-a018-3ca47513a3d0@212.233.120.150:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5ka-cdn.x5static.net&sid=111111#YouTube no ads_2
