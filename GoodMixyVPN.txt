@@ -12,7 +12,7 @@ vless://8c196c67-8c86-44f1-82b3-f5a8fe247a28@212.233.79.136:443?security=reality
 
 vless://c54df195-1ce9-4613-b2eb-af736764ccf3@90.156.216.146:443?security=reality&encryption=none&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#🇩🇪Германия [yandex.ru]
 
-vless://ae8173f2-9b3b-4fff-9a53-ad857dc97b94@51.250.126.235:443?security=reality&encryption=none&pbk=tEduQabQ5YS0EPkXDIRMAuns068ZfzBlCrry4JS2MVs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=68d6237c#%F0%9F%87%AB%F0%9F%87%B7+France+%E2%80%94+%23347vision&sni=max.ru#🇫🇮Финляндия
+vless://ae8173f2-9b3b-4fff-9a53-ad857dc97b94@51.250.126.235:443?security=reality&encryption=none&pbk=tEduQabQ5YS0EPkXDIRMAuns068ZfzBlCrry4JS2MVs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=68d6237c#🇫🇷Франция
 
 vless://59ddd9a0-7bff-495c-a540-b30dba39892e@217.13.104.213:443?security=reality&encryption=none&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com#🇭🇺Венгрия
 
