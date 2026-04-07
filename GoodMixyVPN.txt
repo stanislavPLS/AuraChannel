@@ -1,7 +1,7 @@
 #profile-title: GoodMixyVPN(Test)
 # profile-update-interval: 3
 #announce: тестируем ключи из интернета | версия 0.1.1
-#subscription-userinfo: download=5mb; total=1tb; expire=7.05.2026
+#subscription-userinfo: download=5; total=1099511627776; expire=99999999
 
 vless://4984b534-98a8-4e1c-a079-a48d9d9dc86c@89.208.228.76:8443?mode=gun&security=reality&encryption=none&authority=&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&fp=chrome&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=sso.passport.yandex.ru&sid=77cf23bd7f73c97a#🇷🇺БС 1.🏳️ yandex.ru 🟩LTE
 
