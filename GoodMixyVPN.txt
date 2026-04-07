@@ -1,4 +1,8 @@
 #profile-title: GoodMixyVPN(Test)
+# profile-update-interval: 3
+#announce: тестируем ключи из интернета | версия 0.0.2
+#subscription-userinfo: upload=0; download=2153701362; total=0; expire=1890951622
+
 
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@149.33.0.109:443?security=reality&encryption=none&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=6ba85179e30d4fc2#Неизвестная страна
 
