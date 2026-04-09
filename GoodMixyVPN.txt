@@ -1,6 +1,6 @@
 #profile-title: GoodMixyVPN
 #profile-update-interval: 9
-#announce: тестируем ключи из интернета | версия 1.0.6
+#announce: тестируем ключи из интернета | версия 1.1.1
 #subscription-userinfo: expire=1778499999
 
 vless://cb8ef789-2eb0-455a-909d-879fe09cf9d4@rug.nodes.rocketnetwork.ru:443?security=reality&encryption=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=428ef87fd47a3a32#🇷🇺Россия 1.🏳️ x5.ru 🟩LTE
@@ -15,9 +15,7 @@ vless://859ff803-c425-4cf3-b978-646cdbe4954d@5.188.114.99:8080?mode=auto&path=%2
 
 vless://49d0c0e1-9d25-42f5-af08-3f424592070a@51.250.74.138:443?mode=gun&security=reality&encryption=none&authority=&pbk=dFr7n6XOTuRkgGzYmhTiQzKTd7lwJMODM5_R9Hq_mVI&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=ads.x5.ru#🇷🇺Россия 6.🏳️ x5.ru 🟩LTE
 
-vless://e92c9ad1-a597-4a84-b442-caa75393b694@89.208.231.170:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=428ef87fd47a3a32#🇩🇪Германия 1.🏳️ x5.ru 🟩LTE
-
-vless://e92c9ad1-a597-4a84-b442-caa75393b694@89.208.231.170:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=428ef87fd47a3a32#🇩🇪Германия 2.🏳️ yandex.ru 🟩LTE
+vless://22d6b859-a99b-45d4-b5d9-e394d8c6ec8f@176.122.25.12:443?security=reality&encryption=none&pbk=z-Ov6K0L43xnjJ6RoZHRIa02pL4A6FRsEF8tqAKMnC0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c4bca568b2#🇧🇪Бельгия 1.🏳️ max.ru 🟩LTE
 
 vless://789fad71-17b9-4032-80e5-c0decd8bcfa0@84.201.141.229:443?security=reality&encryption=none&pbk=ND4Vf4FQr4vB95yH5ZLJMc_A6Rr0XT-yjtEaqVoLQ2s&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-5-4.legendary-vpn.com&sid=43bc5597a94b541a#🇫🇮Финляндия 1.🏳️ unknown site 🟩LTE
 
