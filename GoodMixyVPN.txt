@@ -1,6 +1,6 @@
 #profile-title: GoodMixyVPN
-#profile-update-interval: 3
-#announce: тестируем ключи из интернета | версия 1.0.2
+#profile-update-interval: 9
+#announce: тестируем ключи из интернета | версия 1.0.4
 #subscription-userinfo: expire=1778499999
 
 
@@ -26,8 +26,6 @@ vless://f607afc3-e2e7-4ae4-96f1-b20d9369bf48@84.201.146.226:443?security=reality
 
 vless://f80e3c13-ab4f-416f-9dce-91338fced3e9@51.250.28.71:443?security=reality&encryption=none&pbk=1_m8OT3faOxD0HtXVlNuB0m2YXbTHxL0258PTbfp9AM&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=583a0f80689c#🇱🇹Литва 1.🏳️ x5.ru 🟩LTE
 
-#🇫🇷Франция 2.🏳️  🟩LTE
-
 vless://d530621b-55f4-4935-b2b8-9432ea8b87cf@84.201.173.96:443?security=reality&encryption=none&pbk=e0Mb11d4CAtw89qrvJ59Lu0rfplLy6xLh2tbsKoN2UM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-5-2.legendary-vpn.com&sid=7c05417ed86af034#🇫🇮Финляндия 1.🏳️ unknown site 🟩LTE
 
 vless://d530621b-55f4-4935-b2b8-9432ea8b87cf@84.201.176.37:443?security=reality&encryption=none&pbk=BvBjeLm9nWiJn8JGxHO2cLVZ6gGtdxymb0AndLXIRzU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-5-5.legendary-vpn.com&sid=74364cbaa37b403e#🇫🇮Финляндия 2.🏳️ unknown site 🟩LTE
@@ -38,7 +36,5 @@ vless://95543251-b11f-46a8-a20d-1da42078095f@51.250.77.93:3000?mode=auto&path=%2
 
 vless://95543251-b11f-46a8-a20d-1da42078095f@51.250.89.46:3000?mode=auto&path=%2Fapi%2Fv2%2Fconfig%2Fsync&security=reality&encryption=none&allowinsecure=0&type=xhttp&sni=cdnv-img.perekrestok.ru&sid=4ad64b956eed301f#🇦🇹Австрия 2.🏳️  perekrestok.ru 🟩LTE
 
-#🇵🇱Польша 1.🏳️  🟩LTE
-
-#🇵🇱Польша 2.🏳️  🟩LTE
+vless://b6aed6e9-007e-42bb-9b04-45901360ff8b@45.15.178.207:443?type=tcp&encryption=none&security=reality&pbk=09clEjPVp-Do_5zB2EI1xa2d2iASmb5CqE3Sv8hj2Fs&fp=firefox&sni=fill.com&sid=4da0f578ac2b512b&spx=%2F#🇧🇦Босния 1.🏳️ unknown site 🟧Wi-Fi only
 
