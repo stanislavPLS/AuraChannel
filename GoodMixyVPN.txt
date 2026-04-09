@@ -1,38 +1,42 @@
 #profile-title: GoodMixyVPN
 #profile-update-interval: 3
-#announce: тестируем ключи из интернета | версия 1.0.1
-#subscription-userinfo: expire=1778099999
+#announce: тестируем ключи из интернета | версия 1.0.2
+#subscription-userinfo: expire=1778499999
 
 
 vless://24d60352-f839-4df6-86e3-e19591a1ca9d@81.200.149.108:443?security=reality&encryption=none&pbk=0jGSrXTgSMO2BOk8iTT5rvWwgxXJe1HEXgnMkgQxXjk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-7.legendary-vpn.com&sid=26c787791b9a7fe9#🇷🇺БС 1.🏳️ unknown site 🟩LTE
 
 vless://38d422c1-4c19-4a4f-8eb9-cb28814b362f@109.120.191.218:8443?security=reality&encryption=none&pbk=ldGnC9wnr5RpLeHDtixSJhVHNI3S2kl-vhMhP1rVJEc&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6FA44664f6a566d4#🇷🇺БС 2.🏳️ x5.ru 🟩LTE
 
-vless://be404fed-e697-466a-9bad-7c9b6fbb3338@51.250.44.57:1443?security=reality&encryption=none&pbk=Ug9zK5WPuv88RhIYmf2OCZrg2Sn_VRaveCcwNDPRSiI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇷🇺БС 3.🏳️ x5.ru 🟩LTE
+vless://b6a8d215-7f99-4713-baa7-a6061a633c5c@5.188.141.197:443?security=reality&encryption=none&pbk=WWA4FL9fWO0sy41E-fciX6ZTKUL4U2MxhpXJs9jPQ2I&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=b2a6e3d42f05c3d1#🇷🇺БС 3.🏳️ max.ru 🟩LTE
 
-vless://0884ea7f-62af-4539-b0ec-d1a0bf19131c@84.201.134.192:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=428ef87fd47a3a32#🇩🇪Германия 1.🏳️ yandexcloud.net 🟩LTE
+vless://be404fed-e697-466a-9bad-7c9b6fbb3338@51.250.44.57:1443?security=reality&encryption=none&pbk=Ug9zK5WPuv88RhIYmf2OCZrg2Sn_VRaveCcwNDPRSiI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇷🇺БС 4.🏳️ x5.ru 🟩LTE
 
-vless://38d422c1-4c19-4a4f-8eb9-cb28814b362f@109.120.191.218:7443?security=reality&encryption=none&pbk=mx8lvdl-BaXjQ8DjkeSnVrnvQkgikbaQCgbPjUqJ1BM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=5FA44664f6a566d3#🇩🇪Германия 2.🏳️ x5.ru 🟩LTE
+vless://d530621b-55f4-4935-b2b8-9432ea8b87cf@81.200.149.108:443?security=reality&encryption=none&pbk=0jGSrXTgSMO2BOk8iTT5rvWwgxXJe1HEXgnMkgQxXjk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-7.legendary-vpn.com&sid=26c787791b9a7fe9#🇷🇺БС 5.🏳️ unknown site 🟩LTE
+
+vless://148d171e-3917-4e0d-b73e-72371a50433e@79.174.90.31:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=428ef87fd47a3a32#🇩🇪Германия 1.🏳️ x5.ru 🟩LTE
+
+vless://148d171e-3917-4e0d-b73e-72371a50433e@84.201.134.192:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=428ef87fd47a3a32#🇩🇪Германия 2.🏳️ yandex.ru 🟩LTE
+
+vless://148d171e-3917-4e0d-b73e-72371a50433e@84.201.134.192:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=428ef87fd47a3a32#🇩🇪Германия 3.🏳️ yandexcloud.net 🟩LTE
 
 vless://310bba1c-df91-4dc2-a8d4-0fbcf1075e09@217.16.27.13:443?security=reality&encryption=none&pbk=fJw3vtVu2P_brJfxCrOJP9qcCtSPlvixYe1k3h2_sXk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=a6731b44e74de185#🇳🇱Нидерланды 1.🏳️ max.ru 🟩LTE
 
-#🇳🇱Нидерланды 2.🏳️  🟩LTE
+vless://f607afc3-e2e7-4ae4-96f1-b20d9369bf48@84.201.146.226:443?security=reality&encryption=none&pbk=CF5xzEGIeH2VCWuqHexomuAGSw0FaPG47e9uRCBn40E&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=music.yandex.ru&sid=73d71ba2ff#🇳🇱Нидерланды 2.🏳️ yandex.ru 🟩LTE
 
-#🇫🇷Франция 1.🏳️  🟩LTE
+vless://f80e3c13-ab4f-416f-9dce-91338fced3e9@51.250.28.71:443?security=reality&encryption=none&pbk=1_m8OT3faOxD0HtXVlNuB0m2YXbTHxL0258PTbfp9AM&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=583a0f80689c#🇱🇹Литва 1.🏳️ x5.ru 🟩LTE
 
 #🇫🇷Франция 2.🏳️  🟩LTE
 
-vless://5d885d67-e18f-411d-98ea-ca15934de858@84.201.173.96:443?security=reality&encryption=none&pbk=e0Mb11d4CAtw89qrvJ59Lu0rfplLy6xLh2tbsKoN2UM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-5-2.legendary-vpn.com&sid=7c05417ed86af034#🇫🇮Финляндия 1.🏳️ unknown site 🟩LTE
+vless://d530621b-55f4-4935-b2b8-9432ea8b87cf@84.201.173.96:443?security=reality&encryption=none&pbk=e0Mb11d4CAtw89qrvJ59Lu0rfplLy6xLh2tbsKoN2UM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-5-2.legendary-vpn.com&sid=7c05417ed86af034#🇫🇮Финляндия 1.🏳️ unknown site 🟩LTE
 
-vless://24d60352-f839-4df6-86e3-e19591a1ca9d@84.201.155.12:443?security=reality&encryption=none&pbk=XRFML-IWeLV3f6NDAYx2XRsfwgRctaCPSYkY3EHAGyA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-5-3.legendary-vpn.com&sid=cf9a5f248d845846#🇫🇮Финляндия 2.🏳️ unknown site 🟩LTE
+vless://d530621b-55f4-4935-b2b8-9432ea8b87cf@84.201.176.37:443?security=reality&encryption=none&pbk=BvBjeLm9nWiJn8JGxHO2cLVZ6gGtdxymb0AndLXIRzU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-5-5.legendary-vpn.com&sid=74364cbaa37b403e#🇫🇮Финляндия 2.🏳️ unknown site 🟩LTE
 
-#🇰🇿Казахстан 1.🏳️ max.ru 🟩LTE
+vless://d530621b-55f4-4935-b2b8-9432ea8b87cf@84.201.155.12:443?security=reality&encryption=none&pbk=XRFML-IWeLV3f6NDAYx2XRsfwgRctaCPSYkY3EHAGyA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-5-3.legendary-vpn.com&sid=cf9a5f248d845846#🇫🇮Финляндия 3.🏳️ unknown site 🟩LTE
 
-vless://0bb73b46-7a42-48a1-bb48-bbb0a5d21f51@217.16.28.66:443?security=reality&encryption=none&pbk=pCuxB_edEjjHHt_sYHEAEQyrX2L1VfDaQkPpnd78LAM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#🇸🇪Швеция 1.🏳️ yandex.ru 🟩LTE
+vless://95543251-b11f-46a8-a20d-1da42078095f@51.250.77.93:3000?mode=auto&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&fp=safari&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=05f2fd5ddcfe7c4c#🇦🇹Австрия 1.🏳️ x5.ru 🟩LTE
 
-vless://95543251-b11f-46a8-a20d-1da42078095f@51.250.77.93:3000?mode=auto&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&fp=safari&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=05f2fd5ddcfe7c4c#🇦🇹Австрия 1.🏳️  🟩LTE
-
-vless://95543251-b11f-46a8-a20d-1da42078095f@51.250.89.46:3000?mode=auto&path=%2Fapi%2Fv2%2Fconfig%2Fsync&security=reality&encryption=none&allowinsecure=0&type=xhttp&sni=cdnv-img.perekrestok.ru&sid=4ad64b956eed301f#%F0%9F%87%A6%F0%9F%87%B9+Austria+%E2%80%94+%2366#🇦🇹Австрия 2.🏳️  🟩LTE
+vless://95543251-b11f-46a8-a20d-1da42078095f@51.250.89.46:3000?mode=auto&path=%2Fapi%2Fv2%2Fconfig%2Fsync&security=reality&encryption=none&allowinsecure=0&type=xhttp&sni=cdnv-img.perekrestok.ru&sid=4ad64b956eed301f#🇦🇹Австрия 2.🏳️  perekrestok.ru 🟩LTE
 
 #🇵🇱Польша 1.🏳️  🟩LTE
 
