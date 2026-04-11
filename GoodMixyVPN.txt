@@ -1,19 +1,25 @@
 #profile-title: GoodMixyVPN
 #profile-update-interval: 9
-#announce: тестируем ключи из интернета | версия 1.1.4
+#announce: тестируем ключи из интернета | версия 1.1.5
 #subscription-userinfo: expire=1778499999
 
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@WL-RU-CL-02.ray-balance.space:443?security=reality&encryption=none&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdnv-img.perekrestok.ru#🇷🇺1.🟩Россия🏳️ perekrestok.ru
+vless://----GoodMixyVPN----@ab.cd:1488?security=none&encryption=none&headerType=none&type=quic#⚠️ последнее обновление👇
 
-vless://cb8ef789-2eb0-455a-909d-879fe09cf9d4@rug.nodes.rocketnetwork.ru:443?security=reality&encryption=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=428ef87fd47a3a32#🇷🇺2.🟩Россия🏳️ x5.ru
+vless://----GoodMixyVPN----@xy.zz:6752?security=none&encryption=none&headerType=none&type=quic#⚠️ 11 апреля 9:49
 
-vless://d5b7d347-6488-4091-bb61-384bbe57078a@158.160.200.92:443?security=reality&encryption=none&pbk=l07EdUi5TwtWlmBSXgmrAOZ1wKpDE2iIO4rPUkeH9Qo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=da0fe33a#🇷🇺3.🟩Россия🏳️ oracle.com
+vless://871c39e9-8527-45e1-852e-00e2955e432f@158.160.125.84:443?security=reality&encryption=none&pbk=b7CvKgYzbDRHbsrUaZZMLTQG4-TKYRmzZZnJwWsCkno&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c1a72dc3f7c90765#🇷🇺1.🟩Россия🏳️ x5.ru
 
-vless://49d0c0e1-9d25-42f5-af08-3f424592070a@51.250.74.138:443?mode=gun&security=reality&encryption=none&authority=&pbk=dFr7n6XOTuRkgGzYmhTiQzKTd7lwJMODM5_R9Hq_mVI&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=ads.x5.ru#🇷🇺4.🟩Россия🏳️ x5.ru
+vless://fa72366a-8ef6-4558-aa94-fe3a69daf92a@hole.datanode-internal.net:51760?security=reality&encryption=none&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=abbcd128#🇷🇺2.🟩Россия🏳️ x5.ru
 
-vless://d27f2dd2-7e72-4d75-8c1b-f9fdb0dec884@w888.t1n2.com:443?security=reality&encryption=none&pbk=AjV7AGlaKqEutZu8gY9xrSFXMluAZwjflDidb3hRa38&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh1.vk.com&sid=48b56374fe22a46d#🇷🇺5.🟩Россия🏳️ vk.com
+vless://d27f2dd2-7e72-4d75-8c1b-f9fdb0dec884@w888.t1n2.com:443?security=reality&encryption=none&pbk=AjV7AGlaKqEutZu8gY9xrSFXMluAZwjflDidb3hRa38&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh1.vk.com&sid=48b56374fe22a46d#🇷🇺3.🟩Россия🏳️ vk.com
+
+vless://0269c77b-6c57-4c0f-8202-0c864c99fa5a@213.171.26.10:12443?mode=gun&security=reality&encryption=none&authority=&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc-gg&sni=ads.x5.ru&sid=abcdef0123456789#🇷🇺4.🟩Россия🏳️ x5.ru
+
+vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@158.160.222.130:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺5.🟩Россия🏳️ x5.ru
 
 vless://53008c26-1ede-4d42-89f3-cbd2ac9ba050@51.250.99.153:443?mode=auto&path=%2Fapi%2Fv1%2Fsync&security=reality&encryption=none&pbk=qQ4l40OckukEo2OoCTIpLrxBHKRa277XXhUAf3SYEhM&fp=chrome&allowinsecure=0&type=xhttp&sni=5post-gate.x5.ru&sid=1a#🇸🇪1.🟩Швеция🏳️ x5.ru
+
+vless://fa72366a-8ef6-4558-aa94-fe3a69daf92a@de.datanode-internal.net:443?type=tcp&security=reality&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&fp=qq&sni=sun9-37.userapi.com&sid=abbcd128&flow=xtls-rprx-vision#🇵🇱1.🟧Польша 
 
 vless://95557ad5-5d90-4f80-a1e2-a72fda60ca4b@tr2.odavpn.online:8443?security=reality&encryption=none&pbk=Lq1xwc-Qd0Te8sV-NxrJLQO6JbvPkknki6inkKj5_WQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=22c6f049621c44ec#🇹🇷1.🟧Турция sony.com
 
