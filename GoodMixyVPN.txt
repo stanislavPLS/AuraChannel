@@ -5,7 +5,7 @@
 
 vless://----GoodMixyVPN----@ab.cd:1488?security=none&type=ws#🇸🇴⚠️последнее обновление👇⚠️
 
-vless://----GoodMixyVPN----@xy.zz:6752?security=none&type=ws#🇸🇴⚠️ 11 апреля 16:11 ⚠️
+vless://----GoodMixyVPN----@xy.zz:6752?security=none&type=ws#🇸🇴⚠️ 11 апреля 16:20 ⚠️
 
 vless://86c14aae-d17e-42ac-acb1-005a31c9bbba@212.233.76.156:8443?mode=multi&security=reality&encryption=none&authority=&pbk=UsIT-zjeviusx9Av1bItm6yZiZCW56J1P1zvoQAOpU0&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=max.ru&sid=0123456789abcdef#🇷🇺LTE Россия | безлимит
 
@@ -15,9 +15,9 @@ vless://201f9741-7824-453e-896c-469798c774c8@91.222.239.98:443?security=reality&
 
 vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@rus.frdmhere.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=008Ofl6YJthYSWM6x2cBCy-CQqAZOcxKsyL7pvwI7Dc&host=live.mediacdn.ru&allowinsecure=0&type=xhttp&sni=live.mediacdn.ru&sid=714c8f0f06a53cf1#🇷🇺LTE Россия | 99,9/100 гб
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@usa.frdmhere.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=RdFhDE70isO-QgUur_OVe8_TetvBHP-qe18MHJ44gFQ&host=strm.yandex.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=strm.yandex.ru&sid=b00b1e5b#🇺🇸LTE США | 49,9/50 гб
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@usa.frdmhere.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=RdFhDE70isO-QgUur_OVe8_TetvBHP-qe18MHJ44gFQ&host=strm.yandex.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=strm.yandex.ru&sid=b00b1e5b#🇺🇸LTE США | 99,9/100 гб
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.104.102:8443?security=reality&encryption=none&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=st-im.kinopoisk.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия | 50/50 гб
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.104.102:8443?security=reality&encryption=none&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=st-im.kinopoisk.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия | 99,9/100 гб
 
 vless://16f9e230-50ab-4c63-9edd-4a49cec71d8a@161.104.105.144:443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=8d3293f0066e129a#🇩🇪LTE Германия | безлимит
 
