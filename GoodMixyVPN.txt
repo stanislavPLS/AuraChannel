@@ -3,9 +3,9 @@
 #announce: тестируем ключи из интернета | версия 1.1.8               LTE - сервера, работающие с мобильного интернета в зоне введения белых списков 
 #subscription-userinfo: expire=1778533200
 
-vless://----GoodMixyVPN----@255.255.255.0:50443?security=none&type=ws#🇸🇴⚠️последнее обновление👇⚠️
+vless://----GoodMixyVPN----@GoodMixy.VPN:6674?security=none&type=ws#🇸🇴последнее обновление👇
 
-vless://----GoodMixyVPN----@255.255.255.0:50443?security=none&type=ws#🇸🇴⚠️ 11 апреля 23:20 ⚠️
+vless://----GoodMixyVPN----@GoodMixy.VPN:6674?security=none&type=ws#🇸🇴🔥11 апреля 23:55🔥
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.249:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
@@ -36,7 +36,9 @@ vless://564cd169-b7bc-415b-ae70-7781f23b7c68@161.104.105.114:443?security=realit
 
 vless://91041338-9b7e-4071-83b6-e176fa807cd8@161.104.105.101:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=0d960275b7b0f9af#🇱🇹LTE Литва
 
-vless://4307b6e3-f563-4240-8032-61eb74701198@51.250.81.183:443?security=reality&encryption=none&pbk=Z6kV2lFb6o5gFg4ioFxqkYfz1O5ii25wZrAvX81SSHc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=910c6fb1#🇫🇷LTE Франция
+vless://4307b6e3-f563-4240-8032-61eb74701198@51.250.81.183:443?security=reality&encryption=none&pbk=Z6kV2lFb6o5gFg4ioFxqkYfz1O5ii25wZrAvX81SSHc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=910c6fb1#🇫🇷Франция
 
-vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@193.228.128.136:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=ad7dab462a323acb#🇨🇭LTE Швейцария
+vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@193.228.128.136:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=ad7dab462a323acb#🇨🇭Швейцария
+
+vless://3314557e-6c21-4898-ada1-a4a844e28a3a@103.83.86.27:443?mode=auto&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&pbk=vUqDEx0U33StHVKNQz11H_FsuwVmfqwUZlRNv0zmvzY&fp=chrome&allowinsecure=0&type=xhttp&sni=profitscheck.com#🇹🇷Турция 
 
