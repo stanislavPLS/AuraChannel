@@ -3,7 +3,7 @@
 #announce: тестируем ключи из интернета | версия 1.1.7
 #subscription-userinfo: expire=1778499999
 
-vless://----GoodMixyVPN----@ab.cd:1488?security=none&encryption=none&headerType=none&type=quic#⚠️последнее обновление👇⚠️
+vless://----GoodMixyVPN----@ab.cd:1488?security=none&encryption=none&headerType=none&type=quic#**⚠️последнее обновление👇⚠️**
 
 vless://----GoodMixyVPN----@xy.zz:6752?security=none&encryption=none&headerType=none&type=quic#⚠️ 11 апреля 12:44 ⚠️
 
