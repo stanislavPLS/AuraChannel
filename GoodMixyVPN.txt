@@ -1,28 +1,28 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 9
-#announce: тестируем ключи из интернета | версия 1.1.7c
+#announce: тестируем ключи из интернета | версия 1.1.7d
 #subscription-userinfo: expire=1778533200
 
 vless://----GoodMixyVPN----@ab.cd:1488?security=none&type=ws#🇸🇴⚠️последнее обновление👇⚠️
 
-vless://----GoodMixyVPN----@xy.zz:6752?security=none&type=ws#🇸🇴⚠️ 11 апреля 19:30 ⚠️
+vless://----GoodMixyVPN----@xy.zz:6752?security=none&type=ws#🇸🇴⚠️ 11 апреля 20:20 ⚠️
 
-vless://86511169-9548-4f19-b941-ee0205167c3e@212.233.94.174:443?security=reality&encryption=none&pbk=WWA4FL9fWO0sy41E-fciX6ZTKUL4U2MxhpXJs9jPQ2I&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=b2a6e3d42f05c3d1#🇷🇺LTE Россия | безлимит
+vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.45:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия 1 тип | 0/100гб
 
-vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@158.160.255.47:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺LTE Россия | безлимит 
+vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@89.208.231.35:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия 1 тип | 0/100 гб
 
-vless://023a6c5c-6933-4735-90bc-fa435b955927@85.239.61.193:443?security=reality&encryption=none&pbk=iNHjpSHOGfa1qz-EIC2NG2iV_zcvEx0DC3FD936YURk&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=yahoo.com&sid=8820#🇷🇺LTE Россия | безлимит
+vless://3314557e-6c21-4898-ada1-a4a844e28a3a@84.252.129.218:443?type=tcp&security=reality&pbk=vUqDEx0U33StHVKNQz11H_FsuwVmfqwUZlRNv0zmvzY&fp=chrome&sni=ads.x5.ru&flow=xtls-rprx-vision#🇷🇺LTE Россия 2 тип | 0/15 гб
 
-vless://3314557e-6c21-4898-ada1-a4a844e28a3a@84.252.129.218:443?type=tcp&security=reality&pbk=vUqDEx0U33StHVKNQz11H_FsuwVmfqwUZlRNv0zmvzY&fp=chrome&sni=ads.x5.ru&flow=xtls-rprx-vision#🇷🇺LTE Россия | 15/15 гб
-
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@rus.frdmhere.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=008Ofl6YJthYSWM6x2cBCy-CQqAZOcxKsyL7pvwI7Dc&host=live.mediacdn.ru&allowinsecure=0&type=xhttp&sni=live.mediacdn.ru&sid=714c8f0f06a53cf1#🇷🇺LTE Россия | 98,9/100 гб
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@rus.frdmhere.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=008Ofl6YJthYSWM6x2cBCy-CQqAZOcxKsyL7pvwI7Dc&host=live.mediacdn.ru&allowinsecure=0&type=xhttp&sni=live.mediacdn.ru&sid=714c8f0f06a53cf1#🇷🇺LTE Россия 3 тип | 1,1/100 гб
 
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@usa.frdmhere.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=RdFhDE70isO-QgUur_OVe8_TetvBHP-qe18MHJ44gFQ&host=strm.yandex.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=strm.yandex.ru&sid=b00b1e5b#🇺🇸LTE США | 98,9/100 гб
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@usa.frdmhere.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=RdFhDE70isO-QgUur_OVe8_TetvBHP-qe18MHJ44gFQ&host=strm.yandex.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=strm.yandex.ru&sid=b00b1e5b#🇺🇸LTE США | 1,1/100 гб
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.104.102:8443?security=reality&encryption=none&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=st-im.kinopoisk.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия | 98,9/100 гб
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.104.102:8443?security=reality&encryption=none&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=st-im.kinopoisk.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия 1 тип | 1,1/100 гб
 
-vless://1b8fe8cb-81d9-41be-a40c-46f3fbad487b@161.104.105.144:8443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=dc8109baf0f607ea#🇩🇪LTE Германия | безлимит
+vless://68ba13be-e230-417d-81dd-143b70838c83@158.160.246.55:443?security=reality&fragment=98-150,3-9,tlshello,100-200&encryption=none&pbk=rBH_uIZBgTfCd9YWHB3-DyxAXWXxVktLfIfNEbUnRSs&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=49848ad5#🇩🇪LTE Германия 2 тип | 0/250гб
+
+vless://1b8fe8cb-81d9-41be-a40c-46f3fbad487b@161.104.105.144:8443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=dc8109baf0f607ea#🇩🇪LTE Германия 3 тип | безлимит
 
 vless://b59cf03c-704f-44b0-b329-d3443e860481@84.23.54.186:9887?security=reality&encryption=none&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.io.ozone.ru#🇨🇿LTE Чехия | безлимит
 
@@ -36,4 +36,5 @@ vless://91041338-9b7e-4071-83b6-e176fa807cd8@161.104.105.101:8443?security=reali
 
 vless://4307b6e3-f563-4240-8032-61eb74701198@51.250.81.183:443?security=reality&encryption=none&pbk=Z6kV2lFb6o5gFg4ioFxqkYfz1O5ii25wZrAvX81SSHc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=910c6fb1#🇫🇷LTE Франция | безлимит 
 
+vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@193.228.128.136:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=ad7dab462a323acb#🇨🇭LTE Швейцария | 2мб/100гб
 
