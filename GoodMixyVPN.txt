@@ -1,11 +1,11 @@
 #profile-title: GoodMixyVPN
 #profile-update-interval: 9
-#announce: тестируем ключи из интернета | версия 1.1.6
+#announce: тестируем ключи из интернета | версия 1.1.7
 #subscription-userinfo: expire=1778499999
 
 vless://----GoodMixyVPN----@ab.cd:1488?security=none&encryption=none&headerType=none&type=quic#⚠️последнее обновление👇⚠️
 
-vless://----GoodMixyVPN----@xy.zz:6752?security=none&encryption=none&headerType=none&type=quic#⚠️ 11 апреля 10:08 ⚠️
+vless://----GoodMixyVPN----@xy.zz:6752?security=none&encryption=none&headerType=none&type=quic#⚠️ 11 апреля 12:44 ⚠️
 
 vless://871c39e9-8527-45e1-852e-00e2955e432f@158.160.125.84:443?security=reality&encryption=none&pbk=b7CvKgYzbDRHbsrUaZZMLTQG4-TKYRmzZZnJwWsCkno&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c1a72dc3f7c90765#🇷🇺1.🟩Россия🏳️ x5.ru
 
@@ -13,19 +13,31 @@ vless://fa72366a-8ef6-4558-aa94-fe3a69daf92a@hole.datanode-internal.net:51760?se
 
 vless://d27f2dd2-7e72-4d75-8c1b-f9fdb0dec884@w888.t1n2.com:443?security=reality&encryption=none&pbk=AjV7AGlaKqEutZu8gY9xrSFXMluAZwjflDidb3hRa38&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh1.vk.com&sid=48b56374fe22a46d#🇷🇺3.🟩Россия🏳️ vk.com
 
-vless://0269c77b-6c57-4c0f-8202-0c864c99fa5a@213.171.26.10:12443?mode=gun&security=reality&encryption=none&authority=&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc-gg&sni=ads.x5.ru&sid=abcdef0123456789#🇷🇺4.🟩Россия🏳️ x5.ru
+vless://6a152777-779a-4f0b-aad1-3205db452777@158.160.251.102:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺4.🟩Россия🏳️ x5.ru
 
-vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@158.160.222.130:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺5.🟩Россия🏳️ x5.ru
+vless://11b77e69-bb82-4449-b679-6eade686ceb7@158.160.98.174:443?security=reality&encryption=none&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=3c1523da43287ec4#🇷🇺5.🟩Россия🏳️ yandex.net
 
-vless://38063022-851c-4397-ae4e-245e9f66ea22@158.160.243.165:443?security=reality&encryption=none&pbk=Z0QdxxUoV3nbgTWWtTehxOHh9_oU0W5Pw9Pi46cIcD8&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=crowdtest.payment-widget.plus.tst.kinopoisk.ru#🇷🇺6.🟩Россия🏳️ kinopoisk.ru
+vless://3e579780-03bd-4380-9b35-1311d6e1fec4@151.236.114.156:8443?mode=multi&security=reality&encryption=none&authority=&pbk=UsIT-zjeviusx9Av1bItm6yZiZCW56J1P1zvoQAOpU0&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=max.ru&sid=0123456789abcdef#🇷🇺6.🟩Россия🏳️ max.ru
 
-vless://b296419b-ea97-4ab3-992c-2aefa2be4cff@158.160.251.102:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺7.🟩Россия🏳️ x5.ru
+vless://5ff27209-04bb-439d-ac52-1f1e89215a04@158.160.251.102:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺7.🟩Россия🏳️ x5.ru
 
-vless://7e7452f2-1004-028e-a55a-f9d474e152c7@158.160.226.183:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺8.🟩Россия🏳️ x5.ru
+vless://070c41f2-0e92-4741-8962-cde51a48f992@158.160.251.102:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺8.🟩Россия🏳️ x5.ru
+
+vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@84.201.186.20:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺9.🟩Россия🏳️ x5.ru
+
+vless://ba50b255-ae58-4d50-9411-5652992fbaa0@158.160.248.0:7443?security=reality&encryption=none&pbk=lgHn0b7RkmRDQWBmALPQf3GtFVeccjLrO5d-JkMnngU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=aabb#🇫🇮1.🟩Финляндия🏳️ x5.ru
+
+vless://6b22a2b9-9eeb-4d81-8891-49051583ef62@84.201.173.177:443?security=reality&encryption=none&pbk=Fhii1Ui9Pk35hUS28za8SnL5yb7Lz6FXdv-J0xF8jBM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=6d615073#🇫🇷1.🟩Франция🏳️ vk-apps.com
+
+vless://567b756a-8d60-4a79-92a4-f04339a385e1@84.201.173.177:443?security=reality&encryption=none&pbk=Fhii1Ui9Pk35hUS28za8SnL5yb7Lz6FXdv-J0xF8jBM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=6d615073#🇫🇷2.🟩Франция🏳️ vk-apps.com
 
 vless://53008c26-1ede-4d42-89f3-cbd2ac9ba050@51.250.99.153:443?mode=auto&path=%2Fapi%2Fv1%2Fsync&security=reality&encryption=none&pbk=qQ4l40OckukEo2OoCTIpLrxBHKRa277XXhUAf3SYEhM&fp=chrome&allowinsecure=0&type=xhttp&sni=5post-gate.x5.ru&sid=1a#🇸🇪1.🟩Швеция🏳️ x5.ru
+
+vless://c9707193-9351-4bf0-9ba2-3c9ea0101db9@158.160.254.48:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇳🇱1.🟩Нидерланды🏳️ x5.ru
 
 vless://69958b13-6f3e-4b3d-8144-d07a8be7bff6@51.250.77.93:3000?mode=auto&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&fp=safari&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=488b6f8f9080fcf2#🇦🇹1.🟩Австрия🏳️ x5.ru
 
 vless://fa72366a-8ef6-4558-aa94-fe3a69daf92a@de.datanode-internal.net:443?type=tcp&security=reality&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&fp=qq&sni=sun9-37.userapi.com&sid=abbcd128&flow=xtls-rprx-vision#🇵🇱1.🟧Польша 
+
+vless://f2ee702c-f4c8-4007-8361-a2bd412fddb2@217.16.29.198:443?security=reality&encryption=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ea1058117be12087#🇵🇱2.🟩Польша🏳️ x5.ru
 
