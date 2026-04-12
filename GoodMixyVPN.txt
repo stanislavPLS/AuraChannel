@@ -1,11 +1,11 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета  |  версия 1.1.8a
+#announce:тестируем ключи из интернета  |  версия 1.1.8b
 #subscription-userinfo: expire=1778533200
 
-vless://----GoodMixyVPN----@GoodMixyVPN.net:9090?security=r&type=p#🇸🇴последнее обновление👇
+vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=r&type=p#🇸🇴последнее обновление👇
 
-vless://----GoodMixyVPN----@GoodMixyVPN.net:9090?security=яd&type=p#🇸🇴12 апреля 14:56
+vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴12 апреля 15:11
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.249:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
@@ -15,7 +15,7 @@ vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@178.250.243.111:8443?security=reali
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@89.208.231.35:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@usa.frdmhere.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=RdFhDE70isO-QgUur_OVe8_TetvBHP-qe18MHJ44gFQ&host=strm.yandex.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=strm.yandex.ru&sid=b00b1e5b#🇺🇸LTE США
+vless://aaab8ea0-f45a-453d-aa58-17b53722444b@noda1.invorkel.space:443?security=reality&encryption=none&pbk=--Ses8BQp88LXHvMFtTOrr6RGVpLtjsXXeaBx0PDWxo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=2ba42824f7b521a2#🇷🇺LTE Россия
 
 vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.101.187:8443?security=reality&encryption=none&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия
 
@@ -25,17 +25,7 @@ vless://1b8fe8cb-81d9-41be-a40c-46f3fbad487b@161.104.105.144:8443?security=reali
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@89.208.230.252:1444?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇵🇱LTE Польша
 
-vless://b59cf03c-704f-44b0-b329-d3443e860481@84.23.54.186:9887?security=reality&encryption=none&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.io.ozone.ru#🇨🇿LTE Чехия
-
-vless://53008c26-1ede-4d42-89f3-cbd2ac9ba050@51.250.99.153:443?mode=auto&path=%2Fapi%2Fv1%2Fsync&security=reality&encryption=none&pbk=qQ4l40OckukEo2OoCTIpLrxBHKRa277XXhUAf3SYEhM&fp=chrome&allowinsecure=0&type=xhttp&sni=5post-gate.x5.ru&sid=1a#🇸🇪LTE Швеция
-
-vless://fe3f495c-bb16-40d5-bc93-9262e72110eb@161.104.105.114:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=2715592069f36fe7#🇭🇺LTE Венгрия
-
-vless://564cd169-b7bc-415b-ae70-7781f23b7c68@161.104.105.114:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=8ba12e75110b7a9c#🇭🇺LTE Венгрия
-
-vless://91041338-9b7e-4071-83b6-e176fa807cd8@161.104.105.101:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=0d960275b7b0f9af#🇱🇹LTE Литва
-
-vless://4307b6e3-f563-4240-8032-61eb74701198@51.250.81.183:443?security=reality&encryption=none&pbk=Z6kV2lFb6o5gFg4ioFxqkYfz1O5ii25wZrAvX81SSHc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=910c6fb1#🇫🇷Wi-fi Франция
+vless://aaab8ea0-f45a-453d-aa58-17b53722444b@noda4.invorkel.space:443?security=reality&encryption=none&pbk=Zzj2RpxXpuoG7kG-KoVnLvoaIL_mxY22fONmHv-Lqx0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=3ca4292da726b3#🇫🇮LTE Финляндия 
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@193.228.128.136:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=ad7dab462a323acb#🇨🇭Wi-Fi Швейцария
 
