@@ -5,7 +5,7 @@
 
 vless://----GoodMixyVPN----@GoodMixyVPN.net:9090?security=r&type=p#🇸🇴последнее обновление👇
 
-vless://----GoodMixyVPN----@GoodMixyVPN.net:9090?security=яd&type=p#🇸🇴12 апреля 11:11
+vless://----GoodMixyVPN----@GoodMixyVPN.net:9090?security=яd&type=p#🇸🇴12 апреля 11:15
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.249:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
@@ -14,7 +14,6 @@ vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.45:8443?security=reality&
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@178.250.243.111:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@89.208.231.35:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
-
 
 vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@usa.frdmhere.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=RdFhDE70isO-QgUur_OVe8_TetvBHP-qe18MHJ44gFQ&host=strm.yandex.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=strm.yandex.ru&sid=b00b1e5b#🇺🇸LTE США
 
