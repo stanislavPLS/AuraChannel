@@ -1,11 +1,11 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета  |  версия 1.1.9a
+#announce:тестируем ключи из интернета  |  версия 1.1.10
 #subscription-userinfo: expire=1778533200
 
 vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=r&type=p#🇸🇴последнее обновление👇
 
-vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴12 апреля 20:15
+vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴12 апреля 23:42
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.249:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
@@ -24,6 +24,8 @@ vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.101.187:8443?security=realit
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@89.208.230.252:1444?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇵🇱LTE Польша
 
 vless://aaab8ea0-f45a-453d-aa58-17b53722444b@noda4.invorkel.space:443?security=reality&encryption=none&pbk=Zzj2RpxXpuoG7kG-KoVnLvoaIL_mxY22fONmHv-Lqx0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=3ca4292da726b3#🇫🇮LTE Финляндия 
+
+vless://ab456cbe-2f71-48b2-b647-46b92fd9bb6a@us.wireguardvpnbotik.com:603?mode=stream-up&path=%2Fmaps_common%2Fv1%2Fdata%2Fsubscriptions%2Fweb&security=reality&encryption=none&pbk=SEUx3TGHAcwEfAD2DShY_YdpFHRH6UdTUBpKBrRdyEE&fp=chrome&type=xhttp&sni=cloud-api.yandex.ru&sid=5d3c36d1b935c51b#🇺🇸Wi-Fi США
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@193.228.128.136:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=ad7dab462a323acb#🇨🇭Wi-Fi Швейцария
 
