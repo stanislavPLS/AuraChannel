@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета  |  версия 1.1.9
+#announce:тестируем ключи из интернета  |  версия 1.1.9a
 #subscription-userinfo: expire=1778533200
 
 vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=r&type=p#🇸🇴последнее обновление👇
@@ -29,5 +29,5 @@ vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@193.228.128.136:8443?security=reali
 
 vless://3314557e-6c21-4898-ada1-a4a844e28a3a@103.83.86.27:443?mode=auto&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&pbk=vUqDEx0U33StHVKNQz11H_FsuwVmfqwUZlRNv0zmvzY&fp=chrome&allowinsecure=0&type=xhttp&sni=profitscheck.com#🇹🇷Wi-Fi Турция 
 
-vless://ef29103a-de11-4ee1-be71-405c22a345a1@37.128.207.218:443?type=tcp&security=reality&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&fp=firefox&sni=lv.crunch-crunch.com&sid=ea1058117be12087&flow=xtls-rprx-vision#🇱🇻Wi-Fi Латвия
+vless://ef29103a-de11-4ee1-be71-405c22a345a1@37.128.207.218:11111?type=xhttp&security=none&host=37.128.207.218&path=%2Fnew-weels#🇱🇻Wi-Fi Латвия
 
