@@ -3,9 +3,9 @@
 #announce: тестируем ключи из интернета | версия 1.1.8 | LTE - сервера, работающие с мобильного интернета в зоне введения белых списков
 #subscription-userinfo: expire=1778533200
 
-vless://----GoodMixyVPN----@GoodMixy.VPN:6674?security=none&type=ws#🇸🇴последнее обновление👇
+vless://----GoodMixyVPN----@GoodMixyVPN.net:6674?security=none&type=ws#🇸🇴последнее обновление👇
 
-vless://----GoodMixyVPN----@GoodMixy.VPN:6674?security=none&type=ws#🇸🇴🔥12 апреля 6:155🔥
+vless://----GoodMixyVPN----@GoodMixyVPN.net:6674?security=none&type=ws#🇸🇴   12 апреля 6:23
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.249:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
