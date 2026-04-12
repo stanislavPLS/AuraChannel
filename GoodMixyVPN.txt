@@ -5,7 +5,7 @@
 
 vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=r&type=p#🇸🇴последнее обновление👇
 
-vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴12 апреля 15:11
+vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴12 апреля 17:55
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.249:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
