@@ -1,11 +1,11 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета  |  версия 1.1.8b
+#announce:тестируем ключи из интернета  |  версия 1.1.9
 #subscription-userinfo: expire=1778533200
 
 vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=r&type=p#🇸🇴последнее обновление👇
 
-vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴12 апреля 17:55
+vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴12 апреля 20:12
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.249:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
@@ -17,11 +17,9 @@ vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@89.208.231.35:8443?security=reality
 
 vless://aaab8ea0-f45a-453d-aa58-17b53722444b@noda1.invorkel.space:443?security=reality&encryption=none&pbk=--Ses8BQp88LXHvMFtTOrr6RGVpLtjsXXeaBx0PDWxo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=2ba42824f7b521a2#🇷🇺LTE Россия
 
+vless://59653c87-2c6a-4d36-a26a-17723f052f6e@84.252.134.63:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺LTE Россия
+
 vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.101.187:8443?security=reality&encryption=none&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия
-
-vless://68ba13be-e230-417d-81dd-143b70838c83@158.160.246.55:443?security=reality&fragment=98-150,3-9,tlshello,100-200&encryption=none&pbk=rBH_uIZBgTfCd9YWHB3-DyxAXWXxVktLfIfNEbUnRSs&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=49848ad5#🇩🇪LTE Германия
-
-vless://1b8fe8cb-81d9-41be-a40c-46f3fbad487b@161.104.105.144:8443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=dc8109baf0f607ea#🇩🇪LTE Германия
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@89.208.230.252:1444?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇵🇱LTE Польша
 
@@ -31,5 +29,5 @@ vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@193.228.128.136:8443?security=reali
 
 vless://3314557e-6c21-4898-ada1-a4a844e28a3a@103.83.86.27:443?mode=auto&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&pbk=vUqDEx0U33StHVKNQz11H_FsuwVmfqwUZlRNv0zmvzY&fp=chrome&allowinsecure=0&type=xhttp&sni=profitscheck.com#🇹🇷Wi-Fi Турция 
 
-vless://1fbd54d0-7ac5-444d-9c8c-fc01c2b2ecbb@itsea.osaip.net:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&allowinsecure=0&type=grpc&serviceName=violet#🇨🇳Wi-Fi Китай
+vless://ef29103a-de11-4ee1-be71-405c22a345a1@37.128.207.218:443?type=tcp&security=reality&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&fp=firefox&sni=lv.crunch-crunch.com&sid=ea1058117be12087&flow=xtls-rprx-vision#🇱🇻Wi-Fi Латвия
 
