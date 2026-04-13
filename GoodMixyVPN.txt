@@ -1,11 +1,11 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета  |  версия 1.1.10b
+#announce:тестируем ключи из интернета  |  версия 1.1.10c
 #subscription-userinfo: expire=1778533200
 
 vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=r&type=p#🇸🇴последнее обновление👇
 
-vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴13 апреля 19:16
+vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴13 апреля 22:29
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.249:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
@@ -16,6 +16,8 @@ vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@178.250.243.111:8443?security=reali
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@89.208.231.35:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
 vless://66921908-bb80-49f6-ab71-7faff9de6dba@51.250.19.24:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺LTE Россия
+
+vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@free.nexyonn.com:443?security=reality&encryption=none&pbk=iNnoaSfyKvdo5kp5znHSGFNqFxNhS0ormvHHHwsUSTM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0123456789abcdef#🇪🇺LTE Ускорение ТГ
 
 vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.101.187:8443?security=reality&encryption=none&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия
 
