@@ -1,11 +1,11 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета  |  версия 1.1.10
+#announce:тестируем ключи из интернета  |  версия 1.1.10a
 #subscription-userinfo: expire=1778533200
 
 vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=r&type=p#🇸🇴последнее обновление👇
 
-vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴13 апреля 7:06
+vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴13 апреля 15:05
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.249:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
@@ -29,7 +29,9 @@ vless://ab456cbe-2f71-48b2-b647-46b92fd9bb6a@us.wireguardvpnbotik.com:603?mode=s
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@193.228.128.136:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=ad7dab462a323acb#🇨🇭Wi-Fi Швейцария
 
-vless://3314557e-6c21-4898-ada1-a4a844e28a3a@103.83.86.27:443?mode=auto&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&pbk=vUqDEx0U33StHVKNQz11H_FsuwVmfqwUZlRNv0zmvzY&fp=chrome&allowinsecure=0&type=xhttp&sni=profitscheck.com#🇹🇷Wi-Fi Турция 
+vless://ab456cbe-2f71-48b2-b647-46b92fd9bb6a@tr.wireguardvpnbotik.com:443?mode=stream-up&path=%2Ftrack%2F138222514%2Fpreview&security=reality&encryption=none&pbk=UAr8qgVJqdi6I8X5TgMFG5IZXzdMTwqk7rram86txno&fp=chrome&type=xhttp&sni=cdn68.zvuk.com&sid=16f12ba002eef7ec#🇹🇷Wi-Fi Турция 
 
 vless://ef29103a-de11-4ee1-be71-405c22a345a1@37.128.207.218:11111?type=xhttp&security=none&host=37.128.207.218&path=%2Fnew-weels#🇱🇻Wi-Fi Латвия
+
+vless://ab456cbe-2f71-48b2-b647-46b92fd9bb6a@nl.wireguardvpnbotik.com:8443?security=reality&encryption=none&pbk=daLb46wNzRQ1Wb2_OfIxYr5WX8-_Xd-POFpykb_IXQY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=river-5-512.rtbcdn.ru&sid=c15c88dd2e9ce352#🇳🇱Wi-Fi Нидерланды 
 
