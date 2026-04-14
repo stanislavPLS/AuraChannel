@@ -1,11 +1,11 @@
 ъз#profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета  |  версия 1.1.12
+#announce:тестируем ключи из интернета  |  версия 1.1.12a
 #subscription-userinfo: expire=1778533200
 
 vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=r&type=p#🇸🇴последнее обновление👇
 
-vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴14 апреля 23:20
+vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴14 апреля 23:30
 
 vless://82b6bed3-a367-496a-ba65-444fa31d0250@84.201.142.177:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺LTE Россия
 
@@ -13,7 +13,7 @@ vless://e741db50-e696-4064-bc56-6bebdf1a3e98@84.201.142.177:443?security=reality
 
 vless://4509c918-6544-4b53-b3c0-edf0de5cb162@158.160.98.174:443?security=reality&encryption=none&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=3c1523da43287ec4#🇷🇺LTE Россия
 
-vless://a96f18f0-4a56-4c4f-be6e-434835f5523c@51.250.117.129:443?security=reality&encryption=none&pbk=uGspoS3wwbemRcyzO-VaIiF_lGvR4JyFWjwbkVF6zQU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7474585086#%🇷🇺LTE Россия
+vless://a96f18f0-4a56-4c4f-be6e-434835f5523c@51.250.117.129:443?security=reality&encryption=none&pbk=uGspoS3wwbemRcyzO-VaIiF_lGvR4JyFWjwbkVF6zQU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7474585086#🇷🇺LTE Россия
 
 vless://4f25d94d-cea1-424d-924e-1ea4885fcdaa@151.236.114.156:8443?mode=multi&security=reality&encryption=none&authority=&pbk=UsIT-zjeviusx9Av1bItm6yZiZCW56J1P1zvoQAOpU0&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=max.ru&sid=0123456789abcdef#🇷🇺LTE Россия
 
@@ -21,7 +21,7 @@ vless://88b2c71c-264f-4abf-a304-30dddd5e96b0@158.160.60.77:443?security=reality&
 
 vless://33fbd2ae-9260-41fa-86ca-a38bdbdc6e3b@84.201.142.177:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺LTE Россия
 
-vless://e741db50-e696-4064-bc56-6bebdf1a3e98@84.201.142.177:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%🇷🇺LTE Россия
+vless://e741db50-e696-4064-bc56-6bebdf1a3e98@84.201.142.177:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺LTE Россия
 
 vless://9b8070c8-16a0-4262-86f4-19fd62a0b53a@84.201.165.105:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺LTE Россия
 
