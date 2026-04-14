@@ -1,23 +1,19 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета  |  версия 1.1.10c
+#announce:тестируем ключи из интернета  |  версия 1.1.10d
 #subscription-userinfo: expire=1778533200
 
 vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=r&type=p#🇸🇴последнее обновление👇
 
-vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴14 апреля 0:00
+vless://----GoodMixyVPN----@GMixy.vpnex.ru:1?security=яd&type=p#🇸🇴14 апреля 14:40
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.249:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
-vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@5.188.141.45:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
+vless://TMG_061d72d6fae@78.159.131.246:443?echfq=none&fp=chrome&type=xhttp&sni=sun6-22.userapi.com&sid=51ac7b064d26d753&mode=auto&path=%2FObrcXIIauK2&security=reality&encryption=none&pbk=t-xBT3S3-ToLAmHk0lgzD98XEXjt_HaiydF3HPgw0wg&host=sun6-22.userapi.com&spx=%2F&allowinsecure=0#🇷🇺LTE Россия
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@178.250.243.111:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
 
 vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@89.208.231.35:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🇷🇺LTE Россия
-
-vless://a3297bcd-e041-4750-a4fb-dea234cae387@51.250.44.22:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺LTE Россия
-
-vless://09258981-6737-4e6f-959c-467c549de3b3@51.250.44.22:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺LTE Россия
 
 vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@free.nexyonn.com:443?security=reality&encryption=none&pbk=iNnoaSfyKvdo5kp5znHSGFNqFxNhS0ormvHHHwsUSTM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0123456789abcdef#🇪🇺LTE Ускорение ТГ
 
@@ -31,11 +27,10 @@ vless://24fcafef-c497-4428-a90d-93c3a8b5a9b7@158.160.250.186:443?security=realit
 
 vless://ab456cbe-2f71-48b2-b647-46b92fd9bb6a@us.wireguardvpnbotik.com:603?mode=stream-up&path=%2Fmaps_common%2Fv1%2Fdata%2Fsubscriptions%2Fweb&security=reality&encryption=none&pbk=SEUx3TGHAcwEfAD2DShY_YdpFHRH6UdTUBpKBrRdyEE&fp=chrome&type=xhttp&sni=cloud-api.yandex.ru&sid=5d3c36d1b935c51b#🇺🇸Wi-Fi США
 
-vless://7ab66446-cfb3-4c9c-badf-da44a34f3de3@193.228.128.136:8443?security=reality&encryption=none&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=ad7dab462a323acb#🇨🇭Wi-Fi Швейцария
-
 vless://ab456cbe-2f71-48b2-b647-46b92fd9bb6a@tr.wireguardvpnbotik.com:443?mode=stream-up&path=%2Ftrack%2F138222514%2Fpreview&security=reality&encryption=none&pbk=UAr8qgVJqdi6I8X5TgMFG5IZXzdMTwqk7rram86txno&fp=chrome&type=xhttp&sni=cdn68.zvuk.com&sid=16f12ba002eef7ec#🇹🇷Wi-Fi Турция 
 
 vless://ef29103a-de11-4ee1-be71-405c22a345a1@37.128.207.218:11111?type=xhttp&security=none&host=37.128.207.218&path=%2Fnew-weels#🇱🇻Wi-Fi Латвия
 
 vless://ab456cbe-2f71-48b2-b647-46b92fd9bb6a@nl.wireguardvpnbotik.com:8443?security=reality&encryption=none&pbk=daLb46wNzRQ1Wb2_OfIxYr5WX8-_Xd-POFpykb_IXQY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=river-5-512.rtbcdn.ru&sid=c15c88dd2e9ce352#🇳🇱Wi-Fi Нидерланды 
 
+vless://3736b139-2721-4629-a735-e4b96adc7dcc@72.56.236.167:443?security=reality&encryption=none&pbk=D0irvQRdNPeCXl5uMyAO_YFeDEP1hAGYObAiNlvI2As&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&sni=www.google.com&sid=a2#🇪🇸Wi-Fi Испания
