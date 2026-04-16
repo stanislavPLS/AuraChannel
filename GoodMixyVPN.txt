@@ -1,17 +1,17 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета  |  версия 1.2.2
+#announce:тестируем ключи из интернета. тгк: @GoodMIXYVPN
 #subscription-userinfo: expire=1778533200
 
 vless://none@zero.xyz:4267?security=none&type=p#🇸🇴последнее обновление👇
 
-vless://none@zero.xyz:4267?security=none&type=p#🇸🇴15 апреля 20:00
+vless://none@zero.xyz:4267?security=none&type=p#🇸🇴15 апреля 22:49
 
 vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.22.127:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=71f0b07a98c840c7#🇷🇺LTE Россия
 
 vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.249.158:8443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=65c7748be8#🇷🇺LTE Россия
 
-vless://0b6b1d8c-675c-4d23-a2ac-cb52f1325d44@178.154.213.137:443?vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.241.119:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=65c7748be8#🇷🇺LTE Россия
+vless://9667c845-3679-48fb-8621-a98af8bfa375@178.154.212.27:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a8#🇷🇺LTE Россия
 
 vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@free.nexyonn.com:443?security=reality&encryption=none&pbk=iNnoaSfyKvdo5kp5znHSGFNqFxNhS0ormvHHHwsUSTM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0123456789abcdef#🇪🇺LTE Ускорение ТГ
 
@@ -21,13 +21,15 @@ vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.101.187:8445?mode=auto&path=
 
 vless://9e9ce149-8cee-4c4d-bafa-a3e1fa5e03fc@158.160.251.31:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇳🇱LTE Нидерланды
 
+vless://662f37d5-6ef2-4fa0-9618-d4f9d9714386@51.250.32.253:4443?security=reality&encryption=none&pbk=O2TFVv21lX8FkLBeJiYH1XiAC2F-pNw3Fu2Luv2sNV8&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&sni=max.ru&sid=54c2#🇵🇱LTE Польша
+
 vless://a96f18f0-4a56-4c4f-be6e-434835f5523c@ya2177.memeplanet.org:443?security=reality&encryption=none&pbk=0j-QVy2pFdCuKAkppUYr0diUSjjKse9CtM5AMhHzqD4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=8ac77e6bab737698#🇺🇦LTE Украина
 
 vless://3736b139-2721-4629-a735-e4b96adc7dcc@72.56.236.167:443?security=reality&encryption=none&pbk=D0irvQRdNPeCXl5uMyAO_YFeDEP1hAGYObAiNlvI2As&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&sni=www.google.com&sid=a2#🇪🇸Wi-Fi Испания
 
 vless://3c48f5ef-444e-46d0-9859-ea3f821934e1@2.26.124.209:9443?encryption=mlkem768x25519plus.native.0rtt._I3rArO52ijoOpATNi3mKnZTWr5TA6YSX2OueoYwhEY&fp=chrome&host=fonts.gstatic.com&mode=auto&path=%2Fcss2&pbk=IrYEwwbZX6omY0yoR9wUDFoSTLCmWU4E2f99lOcbelU&security=reality&sid=5d2883f0994125db&sni=fonts.gstatic.com&spx=%2FRihE1GVz0XepS4E&type=xhttp#🇸🇪Wi-Fi Швеция
 
-vless://d9bbabc9-46c2-4898-a378-00cd266ed55e@144.31.130.107:841?security=reality&encryption=none&pbk=1tnEBVkjwIXD1vZo6bUo0h6yZI11X7b4bq1cTGIDlU4&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#🇹🇷Wi-Fi Турция
+vless://3b7e7ab6-feb0-4c12-b575-b5b2b8e7b8e5@lt1.lazeroe.com:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=i1kgdvvNoTAdTsmFcdFBItn1wakoTNZHC1F7nTCpLlo&fp=chrome&allowinsecure=0&type=xhttp&sni=lt1.lazeroe.com&sid=6f9ae5be33ead6f9#🇱🇹Wi-Fi Литва
 
 vless://ab456cbe-2f71-48b2-b647-46b92fd9bb6a@am.wireguardvpnbotik.com:789?security=reality&encryption=none&pbk=OktonrOrLlwWen5x-XIz0oq1lUxhE5Y2QvAeL8-klEs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=a58139e90400f90d#🇦🇲Wi-Fi Армения 
 
