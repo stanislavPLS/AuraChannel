@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 17 апреля 19:59
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 17 апреля 21:45
 #subscription-userinfo: expire=1778539200
 
 vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.22.127:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=71f0b07a98c840c7#🇷🇺LTE Россия
@@ -11,15 +11,15 @@ vless://7bb27b98-5d8a-4157-99b4-16b8c71d9eda@158.160.162.80:8443?security=realit
 
 vless://7bb27b98-5d8a-4157-99b4-16b8c71d9eda@84.201.132.179:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇷🇺LTE Россия
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Q1ZEUXpxNkJxZEUwbTJSWUs2blhON2VFX242Yk1yRg==@158.160.162.80:1080#🇷🇺LTE Россия
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Q1ZEUXpxNkJxZEUwbTJSWUs2blhON2VFX242Yk1yRg==@84.201.132.179:1080#🇷🇺LTE Россия
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Q1ZEUXpxNkJxZEUwbTJSWUs2blhON2VFX242Yk1yRg==@95.163.211.121:1080#🇷🇺LTE Россия
+vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@51.250.104.102:8443?security=reality&encryption=none&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия
 
-vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@51.250.104.102:8446?mode=auto&path=%2F&security=reality&encryption=none&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&host=ir.ozone.ru&allowinsecure=0&type=xhttp&sni=ir.ozone.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия
+vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@51.250.101.187:8445?mode=auto&path=%2F&security=reality&encryption=none&pbk=7V0vADPc7LkbXMs2rPyw-Pp6CBazw3Tt6N_WbkwdvCI&host=ads.x5.ru&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия
 
-vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@51.250.101.187:8449?mode=auto&path=%2F&security=reality&encryption=none&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&host=st-im.kinopoisk.ru&allowinsecure=0&type=xhttp&sni=st-im.kinopoisk.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия
-
-vless://35796021-099d-4db0-b48c-687758b0ab96@51.250.108.98:4443?security=reality&encryption=none&pbk=4iZWExolJV2s1BcPnZvhBbFVE7tbzWCShLyTWy7h9SY&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&sni=max.ru&sid=e9b3#🇳🇱LTE Нидерланды
+vless://4b0a2c7e-eabe-4701-8201-86dac3ae5f87@158.160.240.76:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇳🇱LTE Нидерланды
 
 vless://4f224938-5019-4763-a194-232848394ff7@158.160.201.236:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇨🇦LTE Канада
 
