@@ -1,13 +1,16 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 17 апреля 8:10
-#subscription-userinfo: expire=1778533200
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 17 апреля 18:05
+#subscription-userinfo: expire=1778539200
 
 vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.22.127:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=71f0b07a98c840c7#🇷🇺LTE Россия
 
 vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.249.158:8443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=65c7748be8#🇷🇺LTE Россия
 
-vless://9667c845-3679-48fb-8621-a98af8bfa375@178.154.212.27:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a8#🇷🇺LTE Россия
+vless://7bb27b98-5d8a-4157-99b4-16b8c71d9eda@158.160.162.80:8443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ir-2.ozone.ru#🇷🇺LTE Россия
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Q1ZEUXpxNkJxZEUwbTJSWUs2blhON2VFX242Yk1yRg==@158.160.162.80:1080#🇷🇺LTE Россия
+
 
 vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@free.nexyonn.com:443?security=reality&encryption=none&pbk=iNnoaSfyKvdo5kp5znHSGFNqFxNhS0ormvHHHwsUSTM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0123456789abcdef#🇪🇺LTE Ускорение ТГ
 
