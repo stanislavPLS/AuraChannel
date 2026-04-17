@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 15 апреля 22:54
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 17 апреля 7:08
 #subscription-userinfo: expire=1778533200
 
 vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.22.127:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=71f0b07a98c840c7#🇷🇺LTE Россия
@@ -11,11 +11,13 @@ vless://9667c845-3679-48fb-8621-a98af8bfa375@178.154.212.27:443?security=reality
 
 vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@free.nexyonn.com:443?security=reality&encryption=none&pbk=iNnoaSfyKvdo5kp5znHSGFNqFxNhS0ormvHHHwsUSTM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0123456789abcdef#🇪🇺LTE Ускорение ТГ
 
+vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.252.58:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=672ff0&type=tcp#🇩🇪LTE Германия
+
 vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.101.187:8443?security=reality&encryption=none&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия
 
 vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.101.187:8445?mode=auto&path=%2F&security=reality&encryption=none&pbk=7V0vADPc7LkbXMs2rPyw-Pp6CBazw3Tt6N_WbkwdvCI&host=ads.x5.ru&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия
 
-vless://9e9ce149-8cee-4c4d-bafa-a3e1fa5e03fc@158.160.251.31:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇳🇱LTE Нидерланды
+vless://83e04592-f8b9-44b4-a35e-660a5c7d0176@158.160.252.183:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇳🇱LTE Нидерланды
 
 vless://662f37d5-6ef2-4fa0-9618-d4f9d9714386@51.250.32.253:4443?security=reality&encryption=none&pbk=O2TFVv21lX8FkLBeJiYH1XiAC2F-pNw3Fu2Luv2sNV8&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&sni=max.ru&sid=54c2#🇵🇱LTE Польша
 
