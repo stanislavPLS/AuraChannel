@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 17 апреля 19:55
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 17 апреля 19:58
 #subscription-userinfo: expire=1778539200
 
 vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.22.127:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=71f0b07a98c840c7#🇷🇺LTE Россия
@@ -13,7 +13,7 @@ vless://7bb27b98-5d8a-4157-99b4-16b8c71d9eda@84.201.132.179:443?mode=gun&securit
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Q1ZEUXpxNkJxZEUwbTJSWUs2blhON2VFX242Yk1yRg==@84.201.132.179:1080#🇷🇺LTE Россия
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Q1ZEUXpxNkJxZEUwbTJSWUs2blhON2VFX242Yk1yRg==@95.163.211.121:1080#%🇷🇺LTE Россия
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Q1ZEUXpxNkJxZEUwbTJSWUs2blhON2VFX242Yk1yRg==@95.163.211.121:1080#🇷🇺LTE Россия
 
 vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@51.250.104.102:8446?mode=auto&path=%2F&security=reality&encryption=none&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&host=ir.ozone.ru&allowinsecure=0&type=xhttp&sni=ir.ozone.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия
 
