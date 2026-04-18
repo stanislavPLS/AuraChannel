@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 17 апреля 21:45
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 18 апреля 8:56
 #subscription-userinfo: expire=1778539200
 
 vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.22.127:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=71f0b07a98c840c7#🇷🇺LTE Россия
