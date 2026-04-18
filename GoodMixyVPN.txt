@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 18 апреля 21:00
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 18 апреля 21:11
 #subscription-userinfo: expire=1778539200
 
 vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.22.127:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=71f0b07a98c840c7#🇷🇺LTE Россия
@@ -17,6 +17,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Q1ZEUXpxNkJxZEUwbTJSWUs2blhON2VFX242Yk1yRg=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Q1ZEUXpxNkJxZEUwbTJSWUs2blhON2VFX242Yk1yRg==@84.201.132.179:1080#🇷🇺LTE Россия
 
+vless://cb1691ad-49cc-46a9-b734-91c109200c32@s35222.cdn.ngenix.net:443?path=%2Fstream%2Flive&security=tls&encryption=none&host=s35222.cdn.ngenix.net&fp=qq&allowinsecure=0&type=ws&sni=s35222.cdn.ngenix.net#🇺🇸LTE США
+
 vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@51.250.104.102:8443?security=reality&encryption=none&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия
 
 vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@51.250.101.187:8445?mode=auto&path=%2F&security=reality&encryption=none&pbk=7V0vADPc7LkbXMs2rPyw-Pp6CBazw3Tt6N_WbkwdvCI&host=ads.x5.ru&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=7ccbcb93b59845de#🇩🇪LTE Германия
@@ -24,6 +26,12 @@ vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@51.250.101.187:8445?mode=auto&path=
 vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@51.250.101.187:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=vpd2w5w55fnqY_apeVNWdDbVwjsoVC6WZKcMiPQyokc&sid=82384c5c685a6dde&type=tcp#🇩🇪LTE Германия | новый 
 
 vless://badc2aff-f688-43f3-baa8-9bfb64bcc1d3@84.201.167.48:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇳🇱LTE Нидерланды 
+
+vless://c332830b-8e37-43ce-89d0-f42b475d66d4@138.124.100.14:443?security=reality&encryption=none&pbk=A-jEozHw8XIUZshEnOLvdgiLl-ixxNnBmpPgpfPIzjI&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ee.capynode.com&sid=aa49ad3a29ebf87d#🇪🇪LTE Эстония | временный
+
+vless://66b12aaa-fb68-4c8c-b103-819d8d130d28@217.13.105.4:443?security=reality&encryption=none&pbk=dfpjZXFTymcxlvi1QnQwuja8AVmTBtHiKMOecY3_l2E&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vkvideo.cs7777.vk.ru#🇭🇺LTE Венгрия | временный
+
+vless://c332830b-8e37-43ce-89d0-f42b475d66d4@84.32.209.12:443?security=reality&encryption=none&pbk=INEKt0u7vwCc40JlMx7cq2tqE5iv6VuVL-dmLPE3QlM&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lt.capynode.com&sid=cdf1756a07bbe6e4#🇱🇹LTE Литва | временный
 
 vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@media-us.frdmhere.com:443?path=%2Fmp3%2Fall%2Fus%2F&security=tls&encryption=none&host=media-us.frdmhere.com&fp=chrome&allowinsecure=0&type=ws&sni=media-us.frdmhere.com#🇺🇸Wi-Fi США
 
