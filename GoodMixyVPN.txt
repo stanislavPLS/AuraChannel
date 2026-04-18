@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 18 апреля 19:24
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 18 апреля 21:00
 #subscription-userinfo: expire=1778539200
 
 vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.22.127:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=71f0b07a98c840c7#🇷🇺LTE Россия
@@ -27,11 +27,11 @@ vless://badc2aff-f688-43f3-baa8-9bfb64bcc1d3@84.201.167.48:443?security=reality&
 
 vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@media-us.frdmhere.com:443?path=%2Fmp3%2Fall%2Fus%2F&security=tls&encryption=none&host=media-us.frdmhere.com&fp=chrome&allowinsecure=0&type=ws&sni=media-us.frdmhere.com#🇺🇸Wi-Fi США
 
+vless://4141672a-a392-4ba9-8e9c-c41136ff9150@89.185.80.169:8443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=st.okcdn.ru#🇺🇸Wi-Fi США
+
 vless://ab456cbe-2f71-48b2-b647-46b92fd9bb6a@nl.wireguardvpnbotik.com:8443?security=reality&encryption=none&pbk=daLb46wNzRQ1Wb2_OfIxYr5WX8-_Xd-POFpykb_IXQY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=river-5-512.rtbcdn.ru&sid=cb219365fc1d25b0#🇳🇱Wi-Fi Нидерланды 
 
 vless://4141672a-a392-4ba9-8e9c-c41136ff9150@144.31.178.137:1080?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api.avito.ru#🇪🇪Wi-Fi Эстония
-
-vless://3b7e7ab6-feb0-4c12-b575-b5b2b8e7b8e5@lt1.lazeroe.com:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=i1kgdvvNoTAdTsmFcdFBItn1wakoTNZHC1F7nTCpLlo&fp=chrome&allowinsecure=0&type=xhttp&sni=lt1.lazeroe.com&sid=6f9ae5be33ead6f9#🇱🇹Wi-Fi Литва
 
 vless://ab456cbe-2f71-48b2-b647-46b92fd9bb6a@am.wireguardvpnbotik.com:789?security=reality&encryption=none&pbk=OktonrOrLlwWen5x-XIz0oq1lUxhE5Y2QvAeL8-klEs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=a58139e90400f90d#🇦🇲Wi-Fi Армения 
 
