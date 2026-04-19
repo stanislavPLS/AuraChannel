@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 19 апреля 9:20
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 19 апреля 9:30
 #subscription-userinfo: expire=1778539200
 
 vless://9667c845-3679-48fb-8621-a98af8bfa375@158.160.22.127:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=71f0b07a98c840c7#🇷🇺LTE Россия
@@ -25,7 +25,7 @@ vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@51.250.101.187:8445?mode=auto&path=
 
 vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@51.250.101.187:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=vpd2w5w55fnqY_apeVNWdDbVwjsoVC6WZKcMiPQyokc&sid=82384c5c685a6dde&type=tcp#🇩🇪LTE Германия | новый 
 
-vless://badc2aff-f688-43f3-baa8-9bfb64bcc1d3@84.201.167.48:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇳🇱LTE Нидерланды 
+vless://51a73dce-9950-4214-bd22-e8b191da3bd4@51.250.27.136:443?security=reality&encryption=none&pbk=RivqWpaTYsjjZ1cGX8xa2njjbB1k5vWYijNvq0hBkWI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.google.com&sid=7f#🇳🇱LTE Нидерланды 
 
 vless://02de8dcd-5cde-4191-9e21-32ac38335b65@us.mtproxy.quest:50095?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.jsdelivr.net&fp=chrome&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&sid=e72a792ebbbcc61b&type=tcp#🇺🇸Wi-Fi США 100гбит/с
 
