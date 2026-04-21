@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 21 апреля 20:30
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 21 апреля 22:15
 #subscription-userinfo: expire=1778539200
 
 vless://93635f50-a74a-4acf-9691-b929550e3716@1kub1.click:2083?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=id.vk.com#🇷🇺LTE Рос1
@@ -25,7 +25,15 @@ vless://4550993c-2191-493a-a612-aaba4a4ec083@51.250.72.41:8081?encryption=none&f
 
 vless://e104275f-0a20-4e54-af18-820b8f6887ff@5.188.140.245:993?security=reality&encryption=none&pbk=thz2uZE7rsLT609yRqqHsw9slQmCohEpFqRaoCoKLCs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323a#🇵🇱LTE Польша
 
-vless://a5aa71ac-07f6-41e8-a4bd-748c7d444877@51.250.6.170:443?security=reality&encryption=none&pbk=6S9Wy_u58vloVUxfyds4xCl8QCLklDKwP3uXTyd3THw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=esg.x5.ru&sid=07d4354838cfa1ac#🇸🇪LTE Швеция
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&allowinsecure=0&type=ws&sni=daluan.eu.org#LTE Обход
+
+vless://4de9bd4f-8d80-4637-8bdb-9e987c8a79bc@146.103.114.12:59001?security=reality&encryption=none&pbk=alN88a4LJdVTW2JRU1jE-LYDAG2LhLEZoMSZRaCWWR4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.m.vk.ru&sid=9629#LTE Обход
+
+vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?security=reality&encryption=none&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.m.vk.ru&sid=9a694cfa8ebd15#LTE Обход
+
+vless://bf263367-bb63-4663-b4a1-34946107a72e@pl-1.illusion-vpn.ru:443?security=reality&encryption=none&pbk=5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-1.illusion-vpn.ru&sid=b2a1c97a38#LTE Обход
+
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.97:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cluster-de-1.firstvideocdn.ru#LTE Обход
 
 vless://4550993c-2191-493a-a612-aaba4a4ec083@158.160.196.49:8081?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4326#LTE Умный/Авто
 
@@ -39,12 +47,10 @@ vless://4550993c-2191-493a-a612-aaba4a4ec083@158.160.159.34:8081?security=realit
 
 vless://4550993c-2191-493a-a612-aaba4a4ec083@158.160.159.34:8081?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4326#LTE Умный/Авто
 
-vless://fbfa19db-9735-4881-9577-2c1626d6fcff@nl3.aeoapp.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl3.aeoapp.com&fp=chrome&pbk=Hn-I3NxlQ2W3SEWIVbnMFO_wYKlrFx9cun0uHC-a6y0&sid=b1b9ebf1a9936aa7&type=tcp#🇳🇱Wi-Fi Нидерланды
+vless://44f54c91-3831-408f-9ebd-9c39d9e613b0@nl.wireguardvpnbotik.com:8443?security=reality&encryption=none&pbk=daLb46wNzRQ1Wb2_OfIxYr5WX8-_Xd-POFpykb_IXQY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=river-5-512.rtbcdn.ru&sid=d5114287d12b9d3e#🇳🇱Wi-Fi Нидерланды 
 
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.62:30047?path=%2F&security=none&encryption=none&type=ws#🇵🇱Wi-Fi Польша
 
 vless://ab456cbe-2f71-48b2-b647-46b92fd9bb6a@am.wireguardvpnbotik.com:789?security=reality&encryption=none&pbk=OktonrOrLlwWen5x-XIz0oq1lUxhE5Y2QvAeL8-klEs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=a58139e90400f90d#🇦🇲Wi-Fi Армения 
-
-vless://fbfa19db-9735-4881-9577-2c1626d6fcff@est.aeoapp.com:443?encryption=none&security=tls&sni=est.aeoapp.com&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=est.aeoapp.com&path=%2Fxhttppath%2F#🇪🇪Wi-Fi Эстония
 
 vless://a591c790-4111-4ca4-944b-b58ba0fb0911@194.76.147.5:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&pbk=OrkGyRsyGhZVZKOLg4lSj3uIPCoYlJTWVaiG-Qjcdnc&fp=chrome&type=tcp#🇮🇹Wi-Fi Италия
