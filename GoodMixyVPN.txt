@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 21 апреля 11:51
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 21 апреля 11:53
 #subscription-userinfo: expire=1778539200
 
 vless://a591c790-4111-4ca4-944b-b58ba0fb0911@51.250.44.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=NaONDf0qCoNVteBefVS25yLJbMMLdnKnwsu7_il9MXE&fp=firefox&type=tcp#🇷🇺LTE Россия
@@ -18,14 +18,6 @@ vless://a591c790-4111-4ca4-944b-b58ba0fb0911@94.131.121.189:10443?type=tcp&secur
 vless://4550993c-2191-493a-a612-aaba4a4ec083@51.250.72.41:8081?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=edge&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&type=tcp#🇫🇮LTE Финляндия 
 
 vless://e104275f-0a20-4e54-af18-820b8f6887ff@5.188.140.245:993?security=reality&encryption=none&pbk=thz2uZE7rsLT609yRqqHsw9slQmCohEpFqRaoCoKLCs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323a#🇵🇱LTE Польша
-
-vless://4550993c-2191-493a-a612-aaba4a4ec083@158.160.135.193:8081?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4326#LTE Node-1
-
-vless://4550993c-2191-493a-a612-aaba4a4ec083@51.250.88.146:8081?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4326#LTE Node-2
-
-vless://4550993c-2191-493a-a612-aaba4a4ec083@51.250.36.127:8081?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4326#LTE Node-3
-
-vless://4550993c-2191-493a-a612-aaba4a4ec083@51.250.72.41:8081?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4326#LTE Node-4
 
 vless://4550993c-2191-493a-a612-aaba4a4ec083@158.160.196.49:8081?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4326#LTE Умный/Авто
 
