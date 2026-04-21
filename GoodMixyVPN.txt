@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 21 апреля 11:55
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 21 апреля 19:40
 #subscription-userinfo: expire=1778539200
 
 vless://a591c790-4111-4ca4-944b-b58ba0fb0911@51.250.44.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=NaONDf0qCoNVteBefVS25yLJbMMLdnKnwsu7_il9MXE&fp=firefox&type=tcp#🇷🇺LTE Россия
@@ -40,3 +40,5 @@ vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.62:30047?path=%2F&securit
 vless://ab456cbe-2f71-48b2-b647-46b92fd9bb6a@am.wireguardvpnbotik.com:789?security=reality&encryption=none&pbk=OktonrOrLlwWen5x-XIz0oq1lUxhE5Y2QvAeL8-klEs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=a58139e90400f90d#🇦🇲Wi-Fi Армения 
 
 vless://fbfa19db-9735-4881-9577-2c1626d6fcff@est.aeoapp.com:443?encryption=none&security=tls&sni=est.aeoapp.com&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=est.aeoapp.com&path=%2Fxhttppath%2F#🇪🇪Wi-Fi Эстония
+
+vless://a591c790-4111-4ca4-944b-b58ba0fb0911@194.76.147.5:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&pbk=OrkGyRsyGhZVZKOLg4lSj3uIPCoYlJTWVaiG-Qjcdnc&fp=chrome&type=tcp#🇮🇹Wi-Fi Италия
