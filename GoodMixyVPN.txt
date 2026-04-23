@@ -1,13 +1,11 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 23 апреля 7:30
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 23 апреля 17:08
 #subscription-userinfo: expire=1778539200
 
-vless://93635f50-a74a-4acf-9691-b929550e3716@1kub1.click:2083?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=id.vk.com#🇷🇺LTE Рос1
+vless://06227e09-868d-4de9-b47f-366fd889919e@scandinavia.koexp.ru:14443?mode=auto&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=chrome&spx=%2F&allowinsecure=0&type=xhttp&sni=eh.vk.com&sid=361c68748712c743#🇷🇺LTE Россия
 
-vless://93635f50-a74a-4acf-9691-b929550e3716@ns.1kub1.click:2096?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇷🇺LTE Рос2
-
-vless://06227e09-868d-4de9-b47f-366fd889919e@scandinavia.koexp.ru:14443?mode=auto&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=chrome&spx=%2F&allowinsecure=0&type=xhttp&sni=eh.vk.com&sid=361c68748712c743#🇷🇺LTE Рос3 | стабильный
+vless://06227e09-868d-4de9-b47f-366fd889919e@moscow.koexp.ru:443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=moscow.koexp.ru&sid=361c68748712c743#🇷🇺LTE Россия Ютуб без рекламы 
 
 vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@51.250.104.102:8443?security=reality&encryption=none&pbk=Lbz_QBluidRzLNKKSD85X0nd66GgcvrEXjdQz238vyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f426631275c87e85#🇩🇪LTE Германия
 
@@ -17,21 +15,21 @@ vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@51.250.101.187:8446?mode=auto&path=
 
 vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@51.250.101.187:8445?encryption=none&security=reality&sni=ads.x5.ru&pbk=7V0vADPc7LkbXMs2rPyw-Pp6CBazw3Tt6N_WbkwdvCI&sid=7ccbcb93b59845de&type=xhttp&host=ads.x5.ru#🇩🇪LTE Германия 
 
-vless://4550993c-2191-493a-a612-aaba4a4ec083@51.250.72.41:8081?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=edge&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&type=tcp#🇫🇮LTE Финляндия 
+vless://4550993c-2191-493a-a612-aaba4a4ec083@f1.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=f1.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=randomized&type=tcp#🇫🇮LTE Финляндия 
 
-vless://06227e09-868d-4de9-b47f-366fd889919e@disk.koexp.ru:21443?mode=auto&security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=qq&spx=%2F&allowinsecure=0&type=xhttp&sni=disk.yandex.ru&sid=361c68748712c743#LTE Обход
+vless://06227e09-868d-4de9-b47f-366fd889919e@disk.koexp.ru:21443?mode=auto&security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=qq&spx=%2F&allowinsecure=0&type=xhttp&sni=disk.yandex.ru&sid=361c68748712c743#LTE Mobile_1
 
-vless://06227e09-868d-4de9-b47f-366fd889919e@service.koexp.ru:10443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=361c68748712c743#LTE Обход
+vless://06227e09-868d-4de9-b47f-366fd889919e@service.koexp.ru:10443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=361c68748712c743#LTE Mobile_2
 
-vless://06227e09-868d-4de9-b47f-366fd889919e@disk.koexp.ru:21443?mode=auto&security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=qq&spx=%2F&allowinsecure=0&type=xhttp&sni=disk.yandex.ru&sid=361c68748712c743#LTE Обход
+vless://06227e09-868d-4de9-b47f-366fd889919e@disk.koexp.ru:21443?mode=auto&security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=qq&spx=%2F&allowinsecure=0&type=xhttp&sni=disk.yandex.ru&sid=361c68748712c743#LTE Mobile_3
 
-vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?security=reality&encryption=none&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.m.vk.ru&sid=9a694cfa8ebd15#LTE Обход
+vless://e9b7ac35-67b4-42f4-8cc1-5e9d2b159e4b@de.datanode-internal.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun9-37.userapi.com&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&fp=qq&type=tcp#mobile_4_main
 
-vless://2983c1d0-2c98-4e16-a92a-a64351ec2b30@109.120.189.4:443?security=reality&encryption=none&pbk=YnOlmcxFiHgitIcjba45C7z6kw7txOWnImgSfMCtsiA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=1da44564cda563cc#LTE Обход
+vless://e9b7ac35-67b4-42f4-8cc1-5e9d2b159e4b@hole.datanode-internal.net:51760?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&fp=qq&type=tcp#mobile_4_Reserve
 
-vless://2983c1d0-2c98-4e16-a92a-a64351ec2b30@9.67.152.33:443?security=reality&encryption=none&pbk=YnOlmcxFiHgitIcjba45C7z6kw7txOWnImgSfMCtsiA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=1da44564cda563cc#LTE Обход
+vless://06227e09-868d-4de9-b47f-366fd889919e@baltika.koexp.ru:4443?mode=gun&security=reality&encryption=none&authority=&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=qq&spx=%2F&allowinsecure=0&type=grpc&serviceName=grpc-service&sni=dev.max.ru&sid=361c68748712c743#LTE Mobile_5
 
-vless://06227e09-868d-4de9-b47f-366fd889919e@service.koexp.ru:10443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=361c68748712c743#LTE Обход
+vless://06227e09-868d-4de9-b47f-366fd889919e@service.koexp.ru:443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&headerType=none&fp=randomized&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=service.koexp.ru&sid=361c68748712c743#LTE Обход
 
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.62:30047?path=%2F&security=none&encryption=none&type=ws#🇵🇱Wi-Fi Польша
 
