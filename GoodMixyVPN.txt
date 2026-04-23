@@ -1,45 +1,33 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 23 апреля 17:13
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 23 апреля 19:25
 #subscription-userinfo: expire=1778539200
 
 vless://06227e09-868d-4de9-b47f-366fd889919e@scandinavia.koexp.ru:14443?mode=auto&security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=chrome&spx=%2F&allowinsecure=0&type=xhttp&sni=eh.vk.com&sid=361c68748712c743#🇷🇺LTE Россия
 
 vless://06227e09-868d-4de9-b47f-366fd889919e@moscow.koexp.ru:443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=moscow.koexp.ru&sid=361c68748712c743#🇷🇺LTE Россия Ютуб без рекламы 
 
-vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@51.250.104.102:8443?security=reality&encryption=none&pbk=Lbz_QBluidRzLNKKSD85X0nd66GgcvrEXjdQz238vyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f426631275c87e85#🇩🇪LTE Германия
+vless://4550993c-2191-493a-a612-aaba4a4ec083@g7.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g7.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=randomized&type=tcp#🇩🇪Германия (другая)
 
-vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@51.250.101.187:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&pbk=vpd2w5w55fnqY_apeVNWdDbVwjsoVC6WZKcMiPQyokc&sid=82384c5c685a6dde&fp=chrome&type=tcp#🇩🇪LTE Германия 
+vless://06227e09-868d-4de9-b47f-366fd889919e@disk.koexp.ru:21443?mode=auto&security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=qq&spx=%2F&allowinsecure=0&type=xhttp&sni=disk.yandex.ru&sid=361c68748712c743#LTE Mobile_1-Main
 
-vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@51.250.101.187:8446?mode=auto&path=%2F&security=reality&encryption=none&pbk=vpd2w5w55fnqY_apeVNWdDbVwjsoVC6WZKcMiPQyokc&host=5post-gate.x5.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=5post-gate.x5.ru&sid=82384c5c685a6dde#🇩🇪LTE Германия
-
-vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@51.250.101.187:8445?encryption=none&security=reality&sni=ads.x5.ru&pbk=7V0vADPc7LkbXMs2rPyw-Pp6CBazw3Tt6N_WbkwdvCI&sid=7ccbcb93b59845de&type=xhttp&host=ads.x5.ru#🇩🇪LTE Германия 
-
-vless://4550993c-2191-493a-a612-aaba4a4ec083@f1.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=f1.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=randomized&type=tcp#🇫🇮LTE Финляндия 
-
-vless://4d3afaee-969b-4f9a-b57c-357b77ddaa3c@stern.ivideo-box.pro:443?security=reality&encryption=none&pbk=tFYTvPddRjfQmRf1SyPeZZP98hjU0NlOLydZGX_Wpy4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇨🇦LTE Канада 
-
-vless://06227e09-868d-4de9-b47f-366fd889919e@disk.koexp.ru:21443?mode=auto&security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=qq&spx=%2F&allowinsecure=0&type=xhttp&sni=disk.yandex.ru&sid=361c68748712c743#LTE Mobile_1
+vless://06227e09-868d-4de9-b47f-366fd889919e@vector.koexp.ru:443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vector.koexp.ru&sid=361c68748712c743#LTE Mobile_1-Reserve
 
 vless://06227e09-868d-4de9-b47f-366fd889919e@service.koexp.ru:10443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=361c68748712c743#LTE Mobile_2
 
 vless://06227e09-868d-4de9-b47f-366fd889919e@disk.koexp.ru:21443?mode=auto&security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=qq&spx=%2F&allowinsecure=0&type=xhttp&sni=disk.yandex.ru&sid=361c68748712c743#LTE Mobile_3
 
-vless://e9b7ac35-67b4-42f4-8cc1-5e9d2b159e4b@de.datanode-internal.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun9-37.userapi.com&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&fp=qq&type=tcp#LTE Mobile_4_main
+vless://e9b7ac35-67b4-42f4-8cc1-5e9d2b159e4b@de.datanode-internal.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun9-37.userapi.com&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&fp=qq&type=tcp#LTE Mobile_4-main
 
-vless://e9b7ac35-67b4-42f4-8cc1-5e9d2b159e4b@hole.datanode-internal.net:51760?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&fp=qq&type=tcp#LTE Mobile_4_Reserve
+vless://e9b7ac35-67b4-42f4-8cc1-5e9d2b159e4b@hole.datanode-internal.net:51760?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&fp=qq&type=tcp#LTE Mobile_4-Reserve
 
 vless://06227e09-868d-4de9-b47f-366fd889919e@baltika.koexp.ru:4443?mode=gun&security=reality&encryption=none&authority=&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=qq&spx=%2F&allowinsecure=0&type=grpc&serviceName=grpc-service&sni=dev.max.ru&sid=361c68748712c743#LTE Mobile_5
 
 vless://06227e09-868d-4de9-b47f-366fd889919e@service.koexp.ru:443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&headerType=none&fp=randomized&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=service.koexp.ru&sid=361c68748712c743#LTE Mobile_6
 
+
+vless://06227e09-868d-4de9-b47f-366fd889919e@baltika.koexp.ru:14443?mode=auto&security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=chrome&spx=%2F&allowinsecure=0&type=xhttp&sni=eh.vk.com&sid=361c68748712c743#LTE Mobile_7
+
+
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.62:30047?path=%2F&security=none&encryption=none&type=ws#🇵🇱Wi-Fi Польша
-
-hysteria2://tg_8151381359_b6b097ba:ba72ee7d1a2e43b69b1ef6cd@45.137.201.66:443?security=tls&allowinsecure=1#🇧🇬Wi-Fi Болгария
-
-hysteria2://tg_8151381359_b6b097ba:ba72ee7d1a2e43b69b1ef6cd@45.82.245.214:443?security=tls&mportHopInt=30&mport=20000-50000&allowinsecure=1#🇧🇷Wi-Fi Бразилия 
-
-hysteria2://tg_8151381359_b6b097ba:ba72ee7d1a2e43b69b1ef6cd@45.141.119.94:443?security=tls&mportHopInt=30&mport=20000-50000&allowinsecure=1#🇨🇭Wi-Fi Швейцария
-
-
 
