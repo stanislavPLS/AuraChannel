@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 23 апреля 6:40
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 23 апреля 7:30
 #subscription-userinfo: expire=1778539200
 
 vless://93635f50-a74a-4acf-9691-b929550e3716@1kub1.click:2083?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=id.vk.com#🇷🇺LTE Рос1
@@ -28,6 +28,8 @@ vless://06227e09-868d-4de9-b47f-366fd889919e@disk.koexp.ru:21443?mode=auto&secur
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?security=reality&encryption=none&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.m.vk.ru&sid=9a694cfa8ebd15#LTE Обход
 
 vless://2983c1d0-2c98-4e16-a92a-a64351ec2b30@109.120.189.4:443?security=reality&encryption=none&pbk=YnOlmcxFiHgitIcjba45C7z6kw7txOWnImgSfMCtsiA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=1da44564cda563cc#LTE Обход
+
+vless://2983c1d0-2c98-4e16-a92a-a64351ec2b30@9.67.152.33:443?security=reality&encryption=none&pbk=YnOlmcxFiHgitIcjba45C7z6kw7txOWnImgSfMCtsiA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=1da44564cda563cc#LTE Обход
 
 vless://06227e09-868d-4de9-b47f-366fd889919e@service.koexp.ru:10443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=361c68748712c743#LTE Обход
 
