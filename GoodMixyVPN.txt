@@ -1,35 +1,41 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 24 апреля 17:16
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 24 апреля 19:33
 #subscription-userinfo: expire=1778539200
-
-vless://2983c1d0-2c98-4e16-a92a-a64351ec2b30@109.120.189.4:443?security=reality&encryption=none&pbk=YnOlmcxFiHgitIcjba45C7z6kw7txOWnImgSfMCtsiA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=1da44564cda563cc#🇷🇺LTE Россия
-
-vless://2983c1d0-2c98-4e16-a92a-a64351ec2b30@109.120.189.4:443?security=reality&encryption=none&pbk=YnOlmcxFiHgitIcjba45C7z6kw7txOWnImgSfMCtsiA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=1da44564cda563cc#🇷🇺LTE Россия
-
-vless://41e72698-f09a-4617-8f1b-33359c2473cc@89.208.230.64:443?mode=auto&path=%2Fapi%2Fv2%2Fbackend%2Fsync&security=tls&encryption=none&fp=chrome&allowinsecure=0&type=xhttp&sni=filetofile.top#🇩🇪LTE Германия (другая)
 
 vless://8822e9a7-9b61-4b5e-9efd-a483c7322b00@158.160.235.223:993?security=reality&encryption=none&pbk=thz2uZE7rsLT609yRqqHsw9slQmCohEpFqRaoCoKLCs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323a#🇩🇪LTE Германия (другой)
 
-vless://4e81e8ac-54f7-4892-8319-88387dfd4d4f@89.208.229.130:443?security=reality&encryption=none&pbk=Lvz96A7lYsJsbru6sZF-FQivrpqpG3fmVhIHQYJjM20&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c976e10ae144212e#🇨🇦LTE Канада 
+vless://4550993c-2191-493a-a612-aaba4a4ec083@g1.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g1.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_1
 
-vless://41e72698-f09a-4617-8f1b-33359c2473cc@89.208.230.64:443?mode=auto&path=%2Fapi%2Fv2%2Fbackend%2Fsync&security=tls&encryption=none&fp=chrome&allowinsecure=0&type=xhttp&sni=filetofile.top#🇫🇮LTE Финляндия 
+vless://4550993c-2191-493a-a612-aaba4a4ec083@g2.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g2.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_2
 
-vless://0ff47d28-d0d6-4d8f-9d44-593ea39d828f@158.160.231.108:8443?security=reality&encryption=none&pbk=YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#LTE Обход_1
+vless://4550993c-2191-493a-a612-aaba4a4ec083@g3.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g3.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_3
 
-vless://105bfa0f-710b-4f03-b003-7eb812c47d98@51.250.19.183:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#LTE Обход_2
+vless://4550993c-2191-493a-a612-aaba4a4ec083@g4.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g4.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_4
 
-vless://60a5115e-7aa7-4d96-9165-3b1fd72a7dbc@89.208.229.130:443?security=reality&encryption=none&pbk=Lvz96A7lYsJsbru6sZF-FQivrpqpG3fmVhIHQYJjM20&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f5ebbb093b#LTE Обход_3-Основной
+vless://4550993c-2191-493a-a612-aaba4a4ec083@g5.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g5.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_5
 
-vless://4e81e8ac-54f7-4892-8319-88387dfd4d4f@89.208.229.130:443?security=reality&encryption=none&pbk=Lvz96A7lYsJsbru6sZF-FQivrpqpG3fmVhIHQYJjM20&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru&sid=f5ebbb093b#LTE Обход_3-Резерв
+vless://4550993c-2191-493a-a612-aaba4a4ec083@g6.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g6.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_6
 
-vless://0ff47d28-d0d6-4d8f-9d44-593ea39d828f@158.160.231.108:8443?security=reality&encryption=none&pbk=YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#LTE Обход_4
+vless://4550993c-2191-493a-a612-aaba4a4ec083@g7.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g7.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_7
 
-vless://60a5115e-7aa7-4d96-9165-3b1fd72a7dbc@89.208.229.130:443?security=reality&encryption=none&pbk=Lvz96A7lYsJsbru6sZF-FQivrpqpG3fmVhIHQYJjM20&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f5ebbb093b#LTE Обход_5
+vless://4550993c-2191-493a-a612-aaba4a4ec083@g8.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g8.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_8
 
-vless://627a8c42-d978-4ecb-ab17-c4fc927474f8@51.250.45.194:443?security=reality&encryption=none&pbk=Py03aPnCma9Ip4xCvtBsK77NScUYphSw46RmdjFSvls&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=5aea2cffba100557#LTE Обход_6
+vless://4550993c-2191-493a-a612-aaba4a4ec083@g9.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g9.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_9
 
-vless://09a429d9-6ffa-43f3-8b3a-c634dbdda94d@217.16.30.235:443?security=reality&encryption=none&pbk=foa_WHByPPPqrHq4-t66IvC1Z19Ch707zOzS6a1CAyQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#LTE Обход_7
+vless://4550993c-2191-493a-a612-aaba4a4ec083@g10.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g10.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_10
+
+vless://4550993c-2191-493a-a612-aaba4a4ec083@g11.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g11.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_11
+
+vless://4550993c-2191-493a-a612-aaba4a4ec083@f1.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=f1.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_12
+
+vless://4550993c-2191-493a-a612-aaba4a4ec083@f2.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=f2.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_13
+
+vless://4550993c-2191-493a-a612-aaba4a4ec083@f3.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=f3.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_14
+
+vless://4550993c-2191-493a-a612-aaba4a4ec083@f4.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=f4.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_15
+
+vless://4550993c-2191-493a-a612-aaba4a4ec083@f5.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=f5.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_16
 
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.62:30047?path=%2F&security=none&encryption=none&type=ws#🇵🇱Wi-Fi Польша
 
