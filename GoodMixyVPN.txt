@@ -1,11 +1,7 @@
 #profile-title: 🌐GoodMixyVPN⛱️
-#profile-update-interval: 3
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 24 апреля 22:56
+#profile-update-interval: 4
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 25 апреля 9:11
 #subscription-userinfo: expire=1778539200
-
-vless://8822e9a7-9b61-4b5e-9efd-a483c7322b00@158.160.235.223:993?security=reality&encryption=none&pbk=thz2uZE7rsLT609yRqqHsw9slQmCohEpFqRaoCoKLCs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323a#🇩🇪LTE Германия (другой)
-
-vless://627a8c42-d978-4ecb-ab17-c4fc927474f8@159.195.147.104:443?security=reality&encryption=none&pbk=ayJjf8TJwT_INFKDDHk9uv3zyoERmbG2gECNX1fwFxo&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de.plus-hit.ru&sid=7c8e3d4a9b1f26d3#🇸🇬LTE Сингапур
 
 vless://4550993c-2191-493a-a612-aaba4a4ec083@g7.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g7.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_1
 
@@ -43,11 +39,11 @@ vless://e9b7ac35-67b4-42f4-8cc1-5e9d2b159e4b@hole.datanode-internal.net:51760?en
 
 vless://8822e9a7-9b61-4b5e-9efd-a483c7322b00@158.160.235.223:993?security=reality&encryption=none&pbk=thz2uZE7rsLT609yRqqHsw9slQmCohEpFqRaoCoKLCs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323a#LTE Обход_18
 
+vless://01e2c3f1-352b-4cfa-832b-fbcdd12d8b79@sp2.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#ЮТУБ без рекламы
+
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.62:30047?path=%2F&security=none&encryption=none&type=ws#🇵🇱Wi-Fi Польша
 
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@94.156.117.239:30047?path=%2F&security=none&encryption=none&type=ws#🇳🇱Wi-Fi Нидерланды 
-
-vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@138.124.6.175:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#🇫🇮Wi-Fi Финляндия 
 
 vless://01e2c3f1-352b-4cfa-832b-fbcdd12d8b79@ir.gsupport.support:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇮🇪Wi-Fi Ирландия 
 
