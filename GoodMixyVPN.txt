@@ -1,11 +1,23 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 25 апреля 9:33
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 25 апреля 14:00
 #subscription-userinfo: expire=1778539200
 
 vless://4550993c-2191-493a-a612-aaba4a4ec083@158.160.197.130:14443?encryption=none&security=reality&sni=ozon.ru&pbk=Oxa7_rWhui5jFI7p8Fyg0G_Msev5-T6aalS4q2qMViI&sid=3415&fp=edge&type=grpc&serviceName=admin#🇫🇮LTE Финляндия_1
 
 vless://4550993c-2191-493a-a612-aaba4a4ec083@158.160.199.48:8081?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&fp=edge&type=tcp#🇫🇮LTE Финляндия_2
+
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8002?security=tls&allowinsecure=1&sni=rbc.ru#LTE Новые_1
+
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8002?security=tls&allowinsecure=1&sni=rbc.ru#LTE Новые_2
+
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8002?security=tls&allowinsecure=1&sni=rbc.ru#LTE Новые_3
+
+vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@free.nexyonn.com:443?security=reality&encryption=none&pbk=iNnoaSfyKvdo5kp5znHSGFNqFxNhS0ormvHHHwsUSTM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0123456789abcdef#LTE Новые_4
+
+vless://0ff47d28-d0d6-4d8f-9d44-593ea39d828f@158.160.231.108:8443?security=reality&encryption=none&pbk=YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#LTE Новые_5
+
+vless://6aeb78b3-d73c-44c8-b7f6-39bd5c1008a1@51.250.6.170:443?security=reality&encryption=none&pbk=6S9Wy_u58vloVUxfyds4xCl8QCLklDKwP3uXTyd3THw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=esg.x5.ru&sid=56db28dda0d43b45#LTE Новые_6
 
 vless://4550993c-2191-493a-a612-aaba4a4ec083@g7.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g7.steptofreedom.one&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&type=tcp#LTE Обход_1
 
