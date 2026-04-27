@@ -1,17 +1,25 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 27 апреля 7:18
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 27 апреля 17:00
 #subscription-userinfo: expire=1778539200
 
 vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@84.201.180.39:8446?type=xhttp&security=reality&sni=eh.vk.com&pbk=erLlvIVzNci_bhIXdVVpPy-KrwDKyxb_2sZdFOXVBx0&sid=230a02b9981a8b97&path=%2F&host=eh.vk.com#🇩🇪LTE Германия_1
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@84.201.180.39:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&sid=7ccbcb93b59845de#🇩🇪LTE Германия_2
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@84.201.180.39:8446?type=xhttp&security=reality&sni=id.x5.ru&pbk=-dEJG9joRyBWsBBgOC5wvvTuxkOx0rbT_cCR-3FeUGE&sid=83d2d381865b5ee4&path=%2F&host=id.x5.ru#🇩🇪LTE Германия_2
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.104.102:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=m.vk.com&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&sid=7ccbcb93b59845de#🇩🇪LTE Германия_3
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.101.187:8446?type=xhttp&security=reality&sni=m.vk.com&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&sid=7ccbcb93b59845de&path=%2F&host=m.vk.com#🇩🇪LTE Германия_3
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@84.201.180.39:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&sid=7ccbcb93b59845de#🇩🇪LTE Германия_4
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.101.187:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=erLlvIVzNci_bhIXdVVpPy-KrwDKyxb_2sZdFOXVBx0&sid=230a02b9981a8b97#🇩🇪LTE Германия_4
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@109.120.183.104:8446?type=xhttp&security=reality&sni=m.vk.com&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&sid=7ccbcb93b59845de&path=%2F&host=m.vk.com#🇩🇪LTE Германия_5
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.104.102:8446?type=xhttp&security=reality&sni=eh.vk.com&pbk=erLlvIVzNci_bhIXdVVpPy-KrwDKyxb_2sZdFOXVBx0&sid=230a02b9981a8b97&path=%2F&host=eh.vk.com#🇩🇪LTE Германия_5
+
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@109.120.183.104:8446?type=xhttp&security=reality&sni=id.x5.ru&pbk=-dEJG9joRyBWsBBgOC5wvvTuxkOx0rbT_cCR-3FeUGE&sid=83d2d381865b5ee4&path=%2F&host=id.x5.ru#🇩🇪LTE Германия_6
+
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@109.120.183.104:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=id.x5.ru&pbk=-dEJG9joRyBWsBBgOC5wvvTuxkOx0rbT_cCR-3FeUGE&sid=83d2d381865b5ee4#🇩🇪LTE Германия_7
+
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@185.86.145.117:8446?type=xhttp&security=reality&sni=id.x5.ru&pbk=-dEJG9joRyBWsBBgOC5wvvTuxkOx0rbT_cCR-3FeUGE&sid=83d2d381865b5ee4&path=%2F&host=id.x5.ru#🇩🇪LTE Германия_8
+
+vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@185.86.145.117:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&sid=7ccbcb93b59845de#🇩🇪LTE Германия_9
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.188.50:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc-tunnel&sni=api3.dropmefile.net#🇵🇱LTE Польша
 
