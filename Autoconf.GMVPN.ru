@@ -1,8 +1,3 @@
-#profile-title: 🌐GoodMixyJSON✔️
-#profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 27 апреля 17:34
-#subscription-userinfo: expire=1778539900
-
 {
   "remarks": "🇩🇪🇳🇱🇺🇸🇪🇸🇵🇱-Авто",
   "meta": {
