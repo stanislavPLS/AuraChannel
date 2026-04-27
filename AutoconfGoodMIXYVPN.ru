@@ -1,7 +1,12 @@
+#profile-title: 🌐GoodMixyAUTO✔️
+#profile-update-interval: 18
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 27 апреля 17:45
+#subscription-userinfo: expire=1778539200
+
 {
-  "remarks": "🇩🇪🇳🇱🇺🇸🇪🇸🇵🇱-Авто",
+  "remarks": "🇪🇺->🇩🇪🇳🇱🇺🇸🇪🇸🇵🇱<-Авто",
   "meta": {
-    "serverDescription": "Автовыбор между странами (LTE)"
+    "serverDescription": "Автовыбор между странами выше (LTE и Wi-Fi)"
   },
   "dns": {
     "queryStrategy": "UseIP",
