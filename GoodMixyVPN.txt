@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 27 апреля 20:20
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 27 апреля 20:23
 #subscription-userinfo: expire=1778539200
 
 vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@84.201.180.39:8446?type=xhttp&security=reality&sni=eh.vk.com&pbk=erLlvIVzNci_bhIXdVVpPy-KrwDKyxb_2sZdFOXVBx0&sid=230a02b9981a8b97&path=%2F&host=eh.vk.com#🇩🇪LTE Германия_1
@@ -39,7 +39,7 @@ vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@51.250.9.177:443?security=reality&e
 
 vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#LTE Новые_6
 
-vless://7dc2fc94-e363-4e69-9861-1b55f373456e@j2e4f3b-d9r8vq.95.velvetvpn.xyz:40443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&fp=qq#🇷🇺🇷🇺->🇳🇱 (Ульяновск -> Налдвейк)
+vless://7dc2fc94-e363-4e69-9861-1b55f373456e@j2e4f3b-d9r8vq.95.velvetvpn.xyz:40443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&fp=qq#🇸🇴🇷🇺-->🇳🇱 (Ульяновск --> Налдвейк)
 
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.62:30047?path=%2F&security=none&encryption=none&type=ws#🇵🇱Wi-Fi Польша
 
