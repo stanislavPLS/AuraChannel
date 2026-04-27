@@ -1,7 +1,10 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 27 апреля 22:55
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 28 апреля 0:05
 #subscription-userinfo: expire=1778539200
+
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@cnh.herumhas.shop:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#LTE ЮТУБ БЕЗ РЕКЛАМЫ
+
 
 vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@84.201.180.39:8446?type=xhttp&security=reality&sni=eh.vk.com&pbk=erLlvIVzNci_bhIXdVVpPy-KrwDKyxb_2sZdFOXVBx0&sid=230a02b9981a8b97&path=%2F&host=eh.vk.com#🇩🇪LTE Германия_1
 
@@ -21,22 +24,25 @@ vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@185.86.145.117:8446?type=xhttp&secu
 
 vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@185.86.145.117:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&sid=7ccbcb93b59845de#🇩🇪LTE Германия_9
 
+vless://7dc2fc94-e363-4e69-9861-1b55f373456e@md-vv57f16k-q41b.msk.v-tun.com:7443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=amedia-vod.cdnvideo.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&fp=ios#🇩🇪LTE Германия_10
+
+vless://7dc2fc94-e363-4e69-9861-1b55f373456e@md-vv57f16k-q41b.msk.v-tun.com:50445?type=tcp&security=reality&flow=xtls-rprx-vision&sni=river-5-557.rtbcdn.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&fp=ios#🇩🇪LTE Германия_11
+
+vless://7dc2fc94-e363-4e69-9861-1b55f373456e@z0211mq18-z3rk.ru-a1.y-tun.com:40443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&fp=qq#🇩🇪LTE Германия_12
+
+vless://7dc2fc94-e363-4e69-9861-1b55f373456e@a0zm1-bz25-xmjm.cdn.mediavitrina.com:9443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=player.mediavitrina.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&fp=qq#🇩🇪LTE Германия_13
+
+vless://7dc2fc94-e363-4e69-9861-1b55f373456e@178.248.238.133:10065?type=ws&security=tls&host=stream-1.kinograd.online&path=%2Flive%2Fstream%3Fmodule%3Dvideo-cdn%26app_client_id%3Dcc8c59b8-7c86-417b-a522-b0cc29fcc2f8&sni=stream-1.kinograd.online&fp=qq#🇳🇱LTE Нидерланды
+
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.188.50:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc-tunnel&sni=api3.dropmefile.net#🇵🇱LTE Польша
 
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&spx=%2Fo7Aaf6fjwgbitolAe&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#LTE Новые_1
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.191.171:993?security=reality&encryption=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=ad7dab462a323acb#LTE Новые_1
 
-vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@51.250.9.177:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=428ef87fd47a3a32#LTE Новые_2
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.52:993?security=reality&encryption=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#LTE Новые_2
 
-vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#LTE Новые_3
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.191.171:993?security=reality&encryption=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=ad7dab462a323acb#LTE Новые_3
 
-vless://a6f85c9b-169b-4a1e-b051-2011bcfa2c23@31.192.111.158:24207?security=reality&encryption=none&pbk=V8s9nXxrXloDwOOGNdceeMJAvggTjWG-Ax9R9Y0muEk&headerType=none&fp=chrome&spx=%2FlF5w2H20UTEWGcy&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=69#LTE Новые_4
-
-vless://41e72698-f09a-4617-8f1b-33359c2473cc@103.213.249.46:443?security=reality&encryption=none&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a0f2b4232e34f664#LTE Новые_5
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.253:8880?path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=joss.jak.biz.id&type=ws#LTE Новые_6
-
-vless://26524cce-d514-4014-a426-365fb266a14d@77.223.215.167:443?path=%2Fdanfeng&security=tls&encryption=none&host=ynwta9.api-edge.fgfw.qzz.io&fp=chrome&allowinsecure=0&type=ws&sni=ynwta9.api-edge.fgfw.qzz.io#LTE Новые_7
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.81:993?security=reality&encryption=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#LTE Новые_4
 
 vless://7dc2fc94-e363-4e69-9861-1b55f373456e@j2e4f3b-d9r8vq.95.velvetvpn.xyz:40443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&fp=qq#🇸🇴🇷🇺-->🇳🇱 (Ульяновск --> Налдвейк)
 
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@cnh.herumhas.shop:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#LTE ЮТУБ БЕЗ РЕКЛАМЫ
