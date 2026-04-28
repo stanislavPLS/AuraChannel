@@ -1,24 +1,24 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 28 апреля 7:28
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 28 апреля 7:44
 #subscription-userinfo: expire=1778539200
 
 vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@cnh.herumhas.shop:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#LTE ЮТУБ БЕЗ РЕКЛАМЫ
 
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@84.201.180.39:8446?type=xhttp&security=reality&sni=eh.vk.com&pbk=erLlvIVzNci_bhIXdVVpPy-KrwDKyxb_2sZdFOXVBx0&sid=230a02b9981a8b97&path=%2F&host=eh.vk.com#🇩🇪LTE Германия_1
+vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@84.201.180.39:8446?type=http&security=reality&pbk=erLlvIVzNci_bhIXdVVpPy-KrwDKyxb_2sZdFOXVBx0&fp=random&sni=eh.vk.com&sid=230a02b9981a8b97&path=/&host=eh.vk.com#🇩🇪LTE Германия_1
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@84.201.180.39:8446?type=xhttp&security=reality&sni=id.x5.ru&pbk=-dEJG9joRyBWsBBgOC5wvvTuxkOx0rbT_cCR-3FeUGE&sid=83d2d381865b5ee4&path=%2F&host=id.x5.ru#🇩🇪LTE Германия_2
+vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@51.250.104.102:8443?type=tcp&security=reality&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&fp=random&sni=st-im.kinopoisk.ru&sid=7ccbcb93b59845de&flow=xtls-rprx-vision#🇩🇪LTE Германия_2
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.101.187:8446?type=xhttp&security=reality&sni=m.vk.com&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&sid=7ccbcb93b59845de&path=%2F&host=m.vk.com#🇩🇪LTE Германия_3
+vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@51.250.104.102:8446?type=http&security=reality&pbk=erLlvIVzNci_bhIXdVVpPy-KrwDKyxb_2sZdFOXVBx0&sni=eh.vk.com&sid=230a02b9981a8b97&path=/&host=eh.vk.com#🇩🇪LTE Германия_3
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.101.187:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=erLlvIVzNci_bhIXdVVpPy-KrwDKyxb_2sZdFOXVBx0&sid=230a02b9981a8b97#🇩🇪LTE Германия_4
+vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@51.250.101.187:8443?type=tcp&security=reality&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&fp=random&sni=ads.x5.ru&sid=7ccbcb93b59845de&flow=xtls-rprx-vision#🇩🇪LTE Германия_4
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@51.250.104.102:8446?type=xhttp&security=reality&sni=eh.vk.com&pbk=erLlvIVzNci_bhIXdVVpPy-KrwDKyxb_2sZdFOXVBx0&sid=230a02b9981a8b97&path=%2F&host=eh.vk.com#🇩🇪LTE Германия_5
+vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@51.250.101.187:8443?type=tcp&security=reality&pbk=erLlvIVzNci_bhIXdVVpPy-KrwDKyxb_2sZdFOXVBx0&fp=chrome&sni=eh.vk.com&sid=230a02b9981a8b97&flow=xtls-rprx-vision#🇩🇪LTE Германия_5
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@109.120.183.104:8446?type=xhttp&security=reality&sni=id.x5.ru&pbk=-dEJG9joRyBWsBBgOC5wvvTuxkOx0rbT_cCR-3FeUGE&sid=83d2d381865b5ee4&path=%2F&host=id.x5.ru#🇩🇪LTE Германия_6
+vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@84.201.180.39:8443?type=tcp&security=reality&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&fp=random&sni=st-im.kinopoisk.ru&sid=7ccbcb93b59845de&flow=xtls-rprx-vision#🇩🇪LTE Германия_6
 
-vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@109.120.183.104:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=id.x5.ru&pbk=-dEJG9joRyBWsBBgOC5wvvTuxkOx0rbT_cCR-3FeUGE&sid=83d2d381865b5ee4#🇩🇪LTE Германия_7
+vless://5b549203-9a8a-4c4a-bad4-661703e3c05b@84.201.180.39:8446?type=http&security=reality&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&fp=random&sni=m.vk.com&sid=7ccbcb93b59845de&path=/&host=m.vk.com#🇩🇪LTE Германия_7
 
 vless://4c48ed3f-765e-4a96-9ce7-ebddb6847a85@185.86.145.117:8446?type=xhttp&security=reality&sni=id.x5.ru&pbk=-dEJG9joRyBWsBBgOC5wvvTuxkOx0rbT_cCR-3FeUGE&sid=83d2d381865b5ee4&path=%2F&host=id.x5.ru#🇩🇪LTE Германия_8
 
