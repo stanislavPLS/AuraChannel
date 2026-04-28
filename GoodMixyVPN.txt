@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 28 апреля 17:18
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 28 апреля 19:03
 #subscription-userinfo: expire=1778539200
 
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@158.160.5.176:8443?path=%2Fstream&security=none&encryption=none&type=ws#LTE ютуб без рекламы
@@ -58,4 +58,6 @@ vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@158.160.114.71:443?security=reality
 trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@ch-2.bexum.fun:443?security=tls&headerType=none&allowinsecure=1&type=tcp&sni=ch-2.bexum.fun#LTE Обход_15
 
 vless://7dc2fc94-e363-4e69-9861-1b55f373456e@j2e4f3b-d9r8vq.95.velvetvpn.xyz:40443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&fp=qq#🇸🇴🇷🇺⭢🇳🇱 (Ульяновск ⭢ Налдвейк)
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaE0xdTNaN1J4MG9uNVZtWnFrdFBjdDF3cXhSWEVyVUA=pl.suslikvpn.ru:1080#🇵🇱Польша для игр
 
