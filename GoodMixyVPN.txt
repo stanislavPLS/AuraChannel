@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 30 апреля 21:26
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 30 апреля 21:30
 #subscription-userinfo: expire=1778539200
 
 vless://c0ec1906-a2b6-4310-b488-5a73a0a2625e@rf1.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rf1.helper-internet.com&sid=ff776ff77be48b88#LTE ютуб без рекламы
@@ -50,4 +50,6 @@ vless://c0ec1906-a2b6-4310-b488-5a73a0a2625e@5.188.115.230:443?security=reality&
 vless://26de2a8e-fcbf-5c69-910c-41dbfb1ee504@72.56.247.90:8443?mode=stream-one&path=%2Fxhttp&security=reality&encryption=none&pbk=AUdltDwuTw1E6iX34eW-jaF3KaDG6EhZhfTULIuC2Dc&fp=chrome&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=b88026a1#LTE НовыеОбходы_9
 
 vless://26de2a8e-fcbf-5c69-910c-41dbfb1ee504@158.160.234.85:8443?mode=stream-one&path=%2Fxhttp&security=reality&encryption=none&pbk=Sdzh_iCZzihqK3rZfY84FyI2aihYT7pbbNt1s6KUq0o&fp=chrome&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=ed8a48a2#LTE НовыеОбходы_10
+
+vless://5050cc3c-6018-52fe-b436-6d56614a771a@server4magic.magicvpssub.ru:8443?mode=gun&security=reality&encryption=none&pbk=rxLFlPyaqmdEUiilzpZVVsDzlWqCs4ak9i1-q95UAx4&fp=chrome&spx=%2F&type=grpc&sni=www.amazon.com&sid=008417cbcb39#🇱🇻⚡Литва/игровой
 
