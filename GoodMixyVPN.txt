@@ -1,9 +1,9 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 3 мая 10:33
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 3 мая 10:45
 #subscription-userinfo: expire=1778539200
 
-vless://123456-7890-abcd@1.2.3.4:56789?security=reality#через 15 мин будут еще ключи
+vless://123456-7890-abcd@1.2.3.4:56789?security=reality#⌛через час будут еще ключи, ожидайте 
 
 vless://89a2fe2c-6c02-4b73-964d-4b73ad256869@sun30.vkuserapi.com:443?security=reality&encryption=none&pbk=Ff2VL7nn3MFlXMWKM-u7uaVcP5XzpkdezzocL491UB0&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=0c55fd#LTE ютуб без рекламы 
 
