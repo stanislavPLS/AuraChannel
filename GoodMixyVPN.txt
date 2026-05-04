@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 4 мая 20:45
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 4 мая 20:47
 #subscription-userinfo: expire=1778539200
 
 vless://a0e4e8b6-0518-4f19-803e-eece71583392@103.111.114.86:2083?mode=gun&security=reality&encryption=none&authority=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=chrome&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=goya.rutube.ru&sid=6da16b1335651b38#🇮🇳LTE Индия
@@ -15,11 +15,11 @@ vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?mode=gun&security=
 
 vless://55a749bf-e94e-4501-acf6-ed960ef94135@5.188.115.230:443?mode=gun&security=reality&encryption=none&authority=&pbk=EC3wOGb2DaO1WKlcB-00bIU7oH573aI9Xww_3x5DUTs&fp=random&allowinsecure=0&type=grpc&serviceName=&sni=5post-gate.x5.ru&sid=3da16894f6a521B2#LTE Резервный_3
 
-vless://da2d9e98-f486-43ec-8637-79089bc1f222@45.15.129.5:443?security=reality&encryption=none&pbk=tmRzdUIUtlS3-qqTIXF1FNRDn9gkIm4j1kdbb50OLC8&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=62f140#LTE Резервный_13
+vless://da2d9e98-f486-43ec-8637-79089bc1f222@45.15.129.5:443?security=reality&encryption=none&pbk=tmRzdUIUtlS3-qqTIXF1FNRDn9gkIm4j1kdbb50OLC8&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=62f140#LTE Резервный_4
 
-vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@tri100.ru:2053?security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=web.tri100.ru&sid=0858af97f4e7324d#LTE Резервный_14
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@tri100.ru:2053?security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=web.tri100.ru&sid=0858af97f4e7324d#LTE Резервный_5
 
-vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?security=reality&encryption=none&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&headerType=none&allowinsecure=0&type=tcp&sni=www.ozon.ru&sid=ffffffffff#LTE Резервный_15
+vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?security=reality&encryption=none&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&headerType=none&allowinsecure=0&type=tcp&sni=www.ozon.ru&sid=ffffffffff#LTE Резервный_6
 
 vless://5050cc3c-6018-52fe-b436-6d56614a771a@server4magic.magicvpssub.ru:8443?mode=gun&security=reality&encryption=none&pbk=rxLFlPyaqmdEUiilzpZVVsDzlWqCs4ak9i1-q95UAx4&fp=chrome&spx=%2F&type=grpc&sni=www.amazon.com&sid=008417cbcb39#🇱🇻⚡Литва/игровой
 
