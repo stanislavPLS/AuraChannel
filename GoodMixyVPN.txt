@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 6 мая 7:18
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 6 мая 7:20
 #subscription-userinfo: expire=1778539200
 
 vless://40cb7563-63b1-44ce-9680-4e21fc439300@ru03.myxavpn.com:443?encryption=none&security=reality&flow=xtls-rprx-vision&sni=ru03.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&type=tcp#🇬🇧LTE Великобритания_1 [75,4/100гб]
@@ -21,17 +21,9 @@ vless://e0b41091-6152-438f-a53a-40a7a44c0d66@84.201.177.81:443?security=reality&
 
 vless://4075ca23-b9bd-42b8-b2c1-d91731e2646c@217.16.30.13:1695?security=reality&encryption=none&pbk=zuriBhTMmp_RZj4FgG8X3504Af_08niWYWQiwoevSiA&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=117bee239f0f9c0b#LTE ОбходГлушилок_6
 
-vless://55a749bf-e94e-4501-acf6-ed960ef94135@cz.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#🇨🇿⚡Чехия 
-
-vless://307479d4-5b21-4999-b2ba-e151a90f88dc@163.5.180.9:13267?security=reality&encryption=none&echfq=none&pbk=0wrQ9f7QXwuysyeXv3Bh6nySNAAcULF5wEsT4w7lwnQ&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=042194027e6dd4c3#🇩🇪Германия собственный [120гб/1тб]
-
-vless://55a749bf-e94e-4501-acf6-ed960ef94135@kz2.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=kz2.helper-internet.com&sid=ff776ff77be48b88#🇰🇿Казахстан 
+vless://307479d4-5b21-4999-b2ba-e151a90f88dc@163.5.180.9:13267?security=reality&encryption=none&echfq=none&pbk=0wrQ9f7QXwuysyeXv3Bh6nySNAAcULF5wEsT4w7lwnQ&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=042194027e6dd4c3#🇩🇪Германия
 
 vless://8fff17ef-0f6b-45c0-9045-0c0b7467c15a@109.69.218.168:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=cdn-s3.opengate.su&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#🇧🇪Бельгия
-
-vless://8fff17ef-0f6b-45c0-9045-0c0b7467c15a@185.173.223.154:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=tehno.store&pbk=HzNvl-bydOrvVxyIbLEXsCjyKAI94_6EcaDpjrBPY1c#Автоматически_1
-
-vless://8fff17ef-0f6b-45c0-9045-0c0b7467c15a@117.55.202.41:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=hello.opengate.tech&pbk=pJZdgXS61oBi-VKn1QQ59cJTLn3pRNUryhKGWw2q6gM&sid=f793e9e847fdba7f&fp=chrome&spx=%2F#Автоматически_2
 
 vless://8fff17ef-0f6b-45c0-9045-0c0b7467c15a@66.90.92.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=api.qlean.cc&pbk=WuCkPPMFatcRlBmS6NfzBFH2Eniradv5aM-II2-AMhU&sid=3f2528c1c6fe4c0d#YT без рекламы_1
 
