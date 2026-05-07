@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 6 мая 19:47
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 7 мая 7:00
 #subscription-userinfo: expire=1778539200
 
 vless://91198c78-3bdb-4cdf-b41a-e4854d84788e@test.enigmabot.ru:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4f61d0728e062b#тест_1
@@ -26,5 +26,15 @@ trojan://CE9P6cmcWBP3nmJPQRHJyc9EZcchrJSJ@185.91.54.224:7443?security=tls&alpn=h
 vless://ae0deaaa-c307-493d-86e2-d55771d64ce0@ru5.cleanersaz.help:443?mode=gun&security=reality&encryption=none&authority=&pbk=MUk2riQSJscTXhcWiy_1SSLFiPjsMne4w-yInUrDLjY&fp=chrome&allowinsecure=0&type=grpc&serviceName=5post-gate.x5.ru&sni=5post-gate.x5.ru&sid=aaaa#резерв_2
 
 vless://e0b41091-6152-438f-a53a-40a7a44c0d66@84.201.177.81:443?security=reality&encryption=none&pbk=5ELL4X0tLgwzFLWxEOLtCfYb39NiaLQnZPWKcTPEci4&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&sni=max.ru&sid=8d2faad1099c46#резерв_3
+
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.230.199:8443?security=reality&encryption=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=ad7dab462a323acb#резерв_4
+
+vless://e0b41091-6152-438f-a53a-40a7a44c0d66@84.201.177.81:443?security=reality&encryption=none&pbk=5ELL4X0tLgwzFLWxEOLtCfYb39NiaLQnZPWKcTPEci4&headerType=none&fp=qq&allowinsecure=0&type=tcp&sni=max.ru&sid=8d2faad1099c46#резерв_5
+
+vless://91198c78-3bdb-4cdf-b41a-e4854d84788e@node2.frost-api.com:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=01e7#резерв_6
+
+vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@144.31.228.131:443?security=reality&encryption=none&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.deepl.com&sid=0123456789abcdef#резерв_7
+
+trojan://CE9P6cmcWBP3nmJPQRHJyc9EZcchrJSJ@5.188.115.131:7443?security=tls&alpn=h2,http/1.1&headerType=none&fp=qq&allowinsecure=0&type=tcp&sni=magic.speedload.ru#резерв_8
 
 
