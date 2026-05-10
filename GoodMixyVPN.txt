@@ -1,6 +1,6 @@
 #profile-title: 🌐GoodMixyVPN⛱️
 #profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 10 мая 9:41  |  Bypass - обход
+#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 10 мая 9:45  |  Bypass - обход
 #subscription-userinfo: expire=1778539200
 
 vless://03fdd2c2-7459-41b9-9504-ed2ecc1181b6@84.201.166.160:443?mode=gun&security=reality&encryption=none&authority=&pbk=gDxzyiv2JKbJVxgFqmurttOCVJgCD1SrRZqiPEZ_9CU&allowinsecure=0&type=grpc&serviceName=xraygrpc&sni=max.ru&sid=104ddee73f941bc4#🇳🇱LTE Нидерланды | Bypass
