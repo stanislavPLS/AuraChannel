@@ -4,4 +4,4 @@ vless://jji@1.2.3.4:2627?security=j#обратитесь в техподдерж
 
 vless://jji@1.2.3.4:2627?security=j#за новой подпиской
 
-vless://1e7c9ac6-b3bf-4786-a4cf-5940ffb950e1@37.18.15.174:443?security=reality&encryption=none&pbk=b9uDzZP2udvoExtbm7nwraBaAbg0QowtY-ALDNZ__xg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=x5.ru&sid=f4e2b8971d5c3a9f#временный сервер
+vless://fd47bf21-bd91-Fade-b53f-6ce484de16b6@37.9.4.82:443?mode=gun&security=reality&encryption=none&authority=&pbk=o6jbbDkNF_5v8BlkIDl4NKhBiXTxCGms-NPmFkuQNXA&fp=qq&allowinsecure=0&type=grpc&serviceName=&sni=ads.x5.ru#временный сервер
