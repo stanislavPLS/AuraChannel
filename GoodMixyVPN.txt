@@ -1,32 +1,7 @@
-#profile-title: 🌐GoodMixyVPN⛱️
-#profile-update-interval: 4
-#announce:тестируем ключи из интернета | тгк: @GoodMIXYVPN | последнее обновление: 10 мая 11:28  |  Bypass - обход
-#subscription-userinfo: expire=1778539200
+vless://jji@1.2.3.4:2627?security=j#подписка закончилась!
 
-vless://0000-0000@1.2.1.2:6667? security=reality#⌛12 мая в 12:00 по мск
+vless://jji@1.2.3.4:2627?security=j#обратитесь в техподдержку
 
-vless://0000-0000@1.2.1.2:6667? security=reality#подписка закончится
+vless://jji@1.2.3.4:2627?security=j#за новой подпиской
 
-vless://0000-0000@1.2.1.2:6667? security=reality#обратитесь в техподдержку
-
-vless://0000-0000@1.2.1.2:6667? security=reality#за новой подпиской!
-
-vless://03fdd2c2-7459-41b9-9504-ed2ecc1181b6@84.201.166.160:443?mode=gun&security=reality&encryption=none&authority=&pbk=gDxzyiv2JKbJVxgFqmurttOCVJgCD1SrRZqiPEZ_9CU&allowinsecure=0&type=grpc&serviceName=xraygrpc&sni=max.ru&sid=104ddee73f941bc4#🇳🇱LTE Нидерланды | Bypass
-
-vless://6b3e33dc-502a-0001-ada7-b21841f7c844@bucket-ru-5.extravpn.io:443?mode=gun&security=reality&encryption=none&authority=&pbk=mcSB8VHQwqXzWo7oA7RWii3SLVngh63eJOEjxqHKzn8&allowinsecure=0&type=grpc&serviceName=bucket-ru-5.extravpn.io&sni=bucket-ru-5.extravpn.io#🇳🇱LTE Нидерланды | Bypass
-
-vless://6b3e33dc-502a-0001-ada7-b21841f7c844@bucket-ru-6.extravpn.io:443?mode=gun&security=reality&encryption=none&authority=&pbk=qmj3LynPhFqW4pVQf47vfPx-nnykWXxuzNoWmw_DEyc&allowinsecure=0&type=grpc&serviceName=bucket-ru-6.extravpn.io&sni=bucket-ru-6.extravpn.io#LTE DefaultBypass
-
-vless://cc6bb4cd-6807-4cc7-9bd6-46f840d139c9@46.8.209.231:6444?security=reality&encryption=none&pbk=M6JNTSVJMyexwWBUiewFk9fTEImkI_lkkqBj9CjXjBM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com#LTE DefaultBypass
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?path=%2Fstream%2Fupdates%2Fb66b78d7%2F019dee35-0199-d54b-75f2-923ccbf35c230&security=tls&encryption=none&host=cdn.lovecrafty.link&fp=chrome&allowinsecure=1&type=ws&sni=cdn.tracker.yandex.net#🇪🇺LTE Bypass_1
-
-vless://ae0deaaa-c307-493d-86e2-d55771d64ce0@ru5.cleanersaz.help:443?mode=gun&security=reality&encryption=none&authority=&pbk=MUk2riQSJscTXhcWiy_1SSLFiPjsMne4w-yInUrDLjY&fp=chrome&allowiF0nsecure=0&type=grpc&serviceName=5post-gate.x5.ru&sni=5post-gate.x5.ru&sid=aaaa#🇪🇺LTE Bypass_2
-
-vless://ae0deaaa-c307-493d-86e2-d55771d64ce0@ru5.cleanersaz.help:4443?mode=gun&security=reality&encryption=none&authority=&pbk=Bo7oRWnYo-wXuF6xFpOIMyD-27rlluU-O8HnV6h1Bjg&fp=chrome&allowinsecure=0&type=grpc&serviceName=5post-gate.x5.ru&sni=5post-gate.x5.ru&sid=aaaa#🇪🇺LTE Bypass_3
-
-vless://03fdd2c2-7459-41b9-9504-ed2ecc1181b6@84.201.166.160:443?mode=gun&security=reality&encryption=none&authority=&pbk=gDxzyiv2JKbJVxgFqmurttOCVJgCD1SrRZqiPEZ_9CU&allowinsecure=0&type=grpc&serviceName=xraygrpc&sni=max.ru&sid=104ddee73f941bc4#🇪🇺LTE Bypass_4
-
-vless://03fdd2c2-7459-41b9-9504-ed2ecc1181b6@84.201.166.160:443?mode=gun&security=reality&encryption=none&authority=&pbk=gDxzyiv2JKbJVxgFqmurttOCVJgCD1SrRZqiPEZ_9CU&allowinsecure=0&type=grpc&serviceName=xraygrpc&sni=max.ru&sid=104ddee73f941bc4#🇪🇺LTE Bypass_5
-
-
-
+vless://1e7c9ac6-b3bf-4786-a4cf-5940ffb950e1@37.18.15.174:443?security=reality&encryption=none&pbk=b9uDzZP2udvoExtbm7nwraBaAbg0QowtY-ALDNZ__xg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=x5.ru&sid=f4e2b8971d5c3a9f#временный сервер
